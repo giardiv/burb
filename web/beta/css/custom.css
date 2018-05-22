@@ -1,0 +1,222 @@
+@font-face {
+  font-family: Apercu;
+  src: url("../fonts/apercu.otf");
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: Apercu;
+  src: url("../fonts/apercu_bold.otf");
+  font-weight: bold;
+}
+
+/* line 11, ../sass/custom.sass */
+body {
+  background: white;
+  font-family: Apercu;
+}
+
+video{
+    width: 100%;
+}
+
+/* line 15, ../sass/custom.sass */
+.container {
+  z-index: 1;
+  position: relative;
+}
+/* line 18, ../sass/custom.sass */
+.container > .row:first-child {
+  position: fixed;
+  background: white;
+  border-bottom: 7px Solid black;
+  width: 100%;
+}
+
+/* line 24, ../sass/custom.sass */
+.post {
+  margin-top: 30px;
+}
+/* line 26, ../sass/custom.sass */
+.post .data {
+  border-top: 0.5px Solid black;
+  text-align: right;
+}
+/* line 29, ../sass/custom.sass */
+.post .two img {
+  width: 100%;
+}
+/* line 31, ../sass/custom.sass */
+.post .ten img {
+  max-width: 100%;
+}
+/* line 33, ../sass/custom.sass */
+.post > h2 {
+  cursor: pointer;
+}
+
+/* line 36, ../sass/custom.sass */
+div.map.one-half.column {
+  position: relative;
+  z-index: 10;
+  background: yellow;
+  position: fixed;
+  right: 0;
+  top: 0;
+  height: 100%;
+  width: 50%;
+  -webkit-filter: grayscale(100%);
+  -moz-filter: grayscale(100%);
+  -ms-filter: grayscale(100%);
+  -o-filter: grayscale(100%);
+  filter: grayscale(100%);
+  filter: url(grayscale.svg);
+  filter: gray;
+  border-left: 7px Solid black;
+}
+/* line 53, ../sass/custom.sass */
+div.map.one-half.column a[href^="http://maps.google.com/maps"] {
+  display: none !important;
+}
+/* line 55, ../sass/custom.sass */
+div.map.one-half.column a[href^="https://maps.google.com/maps"] {
+  display: none !important;
+}
+/* line 57, ../sass/custom.sass */
+div.map.one-half.column .gmnoprint a, div.map.one-half.column .gmnoprint span, div.map.one-half.column .gm-style-cc {
+  display: none;
+}
+
+/* line 63, ../sass/custom.sass */
+.label {
+  color: red;
+  background-color: blue;
+  font-family: "Lucida Grande", "Arial", sans-serif;
+  font-size: 10px;
+  font-weight: bold;
+  text-align: center;
+  width: 20px;
+  height: 20px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  white-space: nowrap;
+  display: block;
+  margin: 0 -60px -30px 0;
+}
+
+/* line 80, ../sass/custom.sass */
+body .hero, body > header {
+  position: absolute;
+  height: 100%;
+  width: 50%;
+  display: inline-block;
+}
+/* line 85, ../sass/custom.sass */
+body .hero {
+  left: 50%;
+}
+/* line 87, ../sass/custom.sass */
+body .hero .feed {
+  position: relative;
+  z-index: 110;
+  margin: 0;
+}
+
+/* line 91, ../sass/custom.sass */
+body > header {
+  position: fixed;
+  z-index: 100;
+  top: 0;
+  left: 0;
+  background: #efff02;
+}
+/* line 97, ../sass/custom.sass */
+body > header a {
+  display: block;
+  width: 100px;
+  position: relative;
+}
+/* line 101, ../sass/custom.sass */
+body > header a img {
+  position: absolute;
+  width: 75%;
+  margin: 12.5%;
+  margin-top: 0;
+  left: 0;
+  top: 0;
+  border: 5px Solid black;
+}
+/* line 109, ../sass/custom.sass */
+body > header a img:hover {
+  opacity: 0;
+}
+/* line 111, ../sass/custom.sass */
+body > header > .row:first-child {
+  text-align: center;
+}
+/* line 113, ../sass/custom.sass */
+body > header > .row:first-child h5, body > header > .row:first-child h4 {
+  padding: 0 6%;
+}
+/* line 115, ../sass/custom.sass */
+body > header > .row:first-child h5 {
+  line-height: 30px;
+  text-align: left;
+}
+/* line 118, ../sass/custom.sass */
+body > header > footer {
+  position: absolute;
+  bottom: 0;
+}
+/* line 121, ../sass/custom.sass */
+body > header > footer > a.three.columns {
+  padding: 20px;
+  margin: 0;
+}
+/* line 124, ../sass/custom.sass */
+body > header > footer > p {
+  padding: 15px 10px 15px 6%;
+  background: white;
+}
+
+/* line 128, ../sass/custom.sass */
+.rule {
+  margin: 0 6%;
+  overflow: hidden;
+  height: 5px;
+  background: #efff02;
+  position: relative;
+}
+/* line 135, ../sass/custom.sass */
+.rule .row {
+  border-top: 5px Solid black;
+  padding: 20px 0;
+}
+
+/* line 138, ../sass/custom.sass */
+.feed {
+  position: absolute;
+  box-sizing: border-box;
+  width: 100%;
+  overflow: hidden;
+  padding: 6%;
+  padding-left: 10%;
+  background: white;
+  border-left: 7px Solid black;
+}
+/* line 147, ../sass/custom.sass */
+.feed > header {
+  position: fixed;
+  -ms-transform: rotate(-90deg);
+  -webkit-transform: rotate(-90deg);
+  transform: rotate(-90deg);
+  -webkit-transform-origin: 100% 0;
+  -moz-transform-origin: 100% 0;
+  -ms-transform-origin: 100% 0;
+  -o-transform-origin: 100% 0;
+  transform-origin: 0 0;
+  bottom: 10px;
+  left: 51.2%;
+  font-size: 24px;
+}

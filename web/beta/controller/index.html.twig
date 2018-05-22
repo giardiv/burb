@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Burb</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/skeleton.css" />
+    <link rel="stylesheet" href="css/normalize.css" />
+    <link rel="stylesheet" href="css/custom.css" />
+    <script src="http://maps.googleapis.com/maps/api/js"></script>
+    <!--<script src="https://google-maps-utility-library-v3.googlecode.com/svn-history/r391/trunk/markerwithlabel/src/markerwithlabel.js?key=AIzaSyALYsRK9fofrdw9dfSaDsy1vxjnVmJLfj4"></script>-->
+    <script>
+        
+        var mark;
+    function initialize() {
+      var mapProp = {
+        center:new google.maps.LatLng(41.902783 ,12.496366 ),
+        zoom:13,
+        mapTypeId:google.maps.MapTypeId.SATELLITE,
+          mapTypeControl : false,
+          stylers: [
+              { hue: "#00d4ff" },
+              { saturation: 60 },
+              { lightness: -20 },
+              { gamma: 1.51 }
+            ]
+      };
+      var map=new google.maps.Map(document.getElementById("googleMap"),mapProp);
+        setMarkers(map);
+    }
+        function toggleBounce() {
+          if (mark.getAnimation() !== null) {
+            mark.setAnimation(null);
+          } else {
+            mark.setAnimation(google.maps.Animation.BOUNCE);
+          }
+        }
+    var marker = new Array(10);
+    var poi = [
+    {% for post in posts %}
+        {% if post.poi is defined %}
+            [ '{{ post.poi.id }}', {{ post.poi.lon }}, {{ post.poi.lat }}], 
+        {% endif %}
+    {% endfor %}
+        ];
+    function setMarkers(map){  
+        for(var i=0; i<poi.length; i++){
+                    marker[i] = new google.maps.Marker({
+                        position: {lat: poi[i][2], lng: poi[i][1]},
+                        map: map,
+                        icon: {
+                            path: google.maps.SymbolPath.CIRCLE,
+                            scale: 5,
+                            fillColor: 'White',
+                            fillColor: 'White',
+                            fillOpacity: 0.8,
+                            scale: 3,
+                            strokeColor: 'White',
+                            strokeWeight: 5}
+                    });
+            marker[i].addListener('click',toggleBounce);
+        }
+    }
+    function toggleBounce(m) {
+        console.log(m);
+      if (m.getAnimation() !== null) {
+        m.setAnimation(null);
+      } else {
+        m.setAnimation(google.maps.Animation.BOUNCE);
+      }
+    }
+    google.maps.event.addDomListener(window, 'load', initialize);
+        console.log(marker);
+    </script>
+</head>
+<body>
+    <header>
+        <div class="row">
+            <h4 style="margin-bottom:0;margin-top:30px"><b>WALKING OUT OF CONTEMPORARY</b></h4>
+            <h4 style="margin-top:-10px">18.19.20. Marzo – Roma, Italia</h4>
+            <h5>Benvenute/i,<br>
+Questo è un molo aperto di comunicazione sperimentale.<br><br>
+Questo strumento vuole restituire immediatezza alla comunicazione e riportarla ad essere un sistema di interpretazione e di narrazione condivisa dell'agire collettivo nel suo accadere, unendo l'esperienza al suo racconto.
+            </h5>
+        </div>
+        <div class="rule">
+            <div class="row">
+                <div class="four columns">1. la piattaforma non ha la funzione di rispondere a quesiti legati alla logistica della camminata, per soddisfare queste esigenze <a href="http://www.studioroma.istitutosvizzero.it/text/long-walk-istruzioni/" target="_blank" style="text-decoration:underline;color:Black;display:inline">clicca qui</a></div>
+                <div class="four columns">2. se necessario puoi condividere la tua posizione durante il percorso usando la geoloca- lizzazione.</div>
+                <div class="four columns">3. Assicurati che il contributo che stai dando (audio, foto, video, testi e posi- zione) sia pertinen- te allo spirito con il quale l esperienza è stata ideata.</div>
+            </div>
+        </div>
+        <footer class="row">
+            <p class="nine columns"><b>Per raggiungere la conversazione è necessario possedere un numero di telefono e installare Telegram, l’applicazione è disponibile per desktops, iOS, Android e Windows Phone. Accedi cliccando su “JOIN THE FLUX NOW”</b></p>
+            <a class="three columns flux" target="_blank" href="https://telegram.me/joinchat/Cg6jAwaBH-yGp6dUP8VBlA">
+                <img src="img/join_ouf.gif" alt="join the group"/>
+                <img src="img/join.png" alt="join the group"/>
+            </a>
+        
+        </footer>
+    </header>
+    <div class="section hero">
+        {# dump(posts) #}
+        <div class="row">
+            <div class="map one-half column" style="right:3%;width:47%">
+                <div id="googleMap" style="width:100%;height:100%;"></div>
+            </div>
+            <div class="row feed">
+                <div id="feedback" style="position:absolute;height:100%;cursor:pointer;width:8%;left:0;top:0"></div>
+                <header><b>Biennale.Urbana / Beta Test #01</b></header>
+                {% set mk = 0 %}
+                {% for post in posts %}
+                {% if (post.text is defined or post.type is defined) %}
+                <div class="row post">
+                    <div class="two columns">
+                        <img alt="icon" src="img/user_burb.png" style="background:{{ post.from.color }}"/>
+                    </div>
+                    <div class="ten columns">
+                        <div class="row">
+                            {% if post.text is defined %}
+                                <h5 {% if post.big is defined %}style="font-size:48px"{% endif %}>{{ post.text }}</h5>
+                            {% endif %}
+                            {% if post.type is defined %}
+                            {% if post.type == 'img' %}
+                                <img src="{{ post.url }}" alt="photo"/>
+                            {% endif %}
+                            {% if post.type == 'audio' %}
+                                <audio controls="controls">
+                                    <source src="{{ post.url }}" type="{{ post.voice.mime_type }}" />
+                                    Your browser does not support the audio element.
+                                </audio>
+                            {% endif %}
+                            {% if post.type == 'video' %}
+                                <video controls>
+                                    <source src="{{ post.url }}"/>
+                                    Your browser does not support the video tag.
+                                </video>
+                            {% endif %}
+                            {% if post.type == 'file' %}
+                                <h2>{{ post.document.file_name }}</h2>
+                                <a href="{{ post.url }}" class="button" download>Download</a>
+                            {% endif %}
+                            {% endif %}
+                        </div>
+                        <div class="row data">
+                            <h6>{{ post.from.first_name }} — {{ post.date|date('d/m/Y h:i') }}</h6>
+                        </div>
+                    </div>
+                </div>
+                {% endif %}
+                {% if post.poi is defined %}
+                <div class="row post poi" alt="{{ mk }}">
+                    <h2>{{ post.poi.adress }}</h2>
+                    {% set mk = mk + 1 %}
+                </div>
+                {% endif %}
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+    <script src="https://raw.githubusercontent.com/tuupola/jquery_lazyload/master/jquery.lazyload.min.js"></script>
+    <script>
+        function isElementVisible(elementToBeChecked)
+        {
+            var TopView = $(window).scrollTop();
+            var BotView = TopView + $(window).height();
+            var TopElement = $(elementToBeChecked).offset().top;
+            var BotElement = TopElement + $(elementToBeChecked).height();
+            return ((BotElement <= BotView) && (TopElement >= TopView));
+        }
+        $(function(){
+            $("img,video,audio").lazyload({effect : "fadeIn"});
+        });
+        $('body>header>footer, .rule').mouseenter(function(){
+            $(".rule").animate({marginTop: '-'+$('.rule .row').height(), height: $('.rule .row').height()});
+        });
+        $('body>header>footer, .rule').mouseleave(function(){
+            $(".rule").animate({marginTop: '0px', height: '5px'});
+        });
+        
+                
+        var mapOpen = false;
+        var poi2 = 0;
+        $('.poi').click(function(){
+            $('.feed').animate({left : '93%'});
+            toggleBounce(marker[$(this).attr('alt')]);
+            toggleBounce(marker[$(this).attr('alt')]);
+            poi2 = $(this).attr('alt');
+            mapOpen = true;
+        });
+        $('#feedback').click(function(){
+            if(mapOpen){
+                $('.feed').animate({left : '0'});
+                toggleBounce(poi2);
+                toggleBounce(poi2);
+                mapOpen = false;
+            }
+        })
+    </script>
+</body>
+</html>

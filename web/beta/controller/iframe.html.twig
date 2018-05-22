@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Burb</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/skeleton.css" />
+    <link rel="stylesheet" href="css/normalize.css" />
+    <link rel="stylesheet" href="css/custom.css" />
+</head>
+<body>
+    <div class="section">
+            <div class="row">
+                {% set mk = 0 %}
+                {% for post in posts|reverse %}
+                {% if (post.text is defined or post.type is defined) %}
+                <div class="row post">
+                    <div class="two columns">
+                        <img alt="icon" src="img/user_burb.png" style="background:{{ post.from.color }}"/>
+                    </div>
+                    <div class="ten columns">
+                        <div class="row">
+                            {% if post.text is defined %}
+                                <h5 {% if post.big is defined %}style="font-size:48px"{% endif %}>{{ post.text }}</h5>
+                            {% endif %}
+                            {% if post.type is defined %}
+                            {% if post.type == 'img' %}
+                                <img src="{{ post.url }}" alt="photo"/>
+                            {% endif %}
+                            {% if post.type == 'audio' %}
+                                <audio controls="controls">
+                                    <source src="{{ post.url }}" type="{{ post.voice.mime_type }}" />
+                                    Your browser does not support the audio element.
+                                </audio>
+                            {% endif %}
+                            {% if post.type == 'video' %}
+                                <video controls>
+                                    <source src="{{ post.url }}"/>
+                                    Your browser does not support the video tag.
+                                </video>
+                            {% endif %}
+                            {% if post.type == 'file' %}
+                                <h2>{{ post.document.file_name }}</h2>
+                                <a href="{{ post.url }}" class="button" download>Download</a>
+                            {% endif %}
+                            {% endif %}
+                        </div>
+                        <div class="row data">
+                            <h6>{{ post.from.first_name }} — {{ post.date|date('d/m/Y h:i') }}</h6>
+                        </div>
+                    </div>
+                </div>
+                {% endif %}
+                {% if post.poi is defined %}
+                <div class="row post poi" alt="{{ mk }}">
+                    <h2>{{ post.poi.adress }}</h2>
+                    {% set mk = mk + 1 %}
+                </div>
+                {% endif %}
+                {% endfor %}
+            </div>
+        </div>
+</body>
+</html>
