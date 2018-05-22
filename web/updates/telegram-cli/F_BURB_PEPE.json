@@ -1,0 +1,82 @@
+[
+  {
+    "update_id": 630149702378897900,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 172197979,
+        "first_name": "g. olmo stuppia",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1497023788,
+      "voice": {
+        "file_id": "BURB_PEPE/download_5897964569652888020.ogg"
+      }
+    }
+  },
+  {
+    "update_id": 630149700082316000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 187616059,
+        "first_name": "Giulia",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1497000823,
+      "voice": {
+        "file_id": "BURB_PEPE/download_5897964569652887963.ogg"
+      }
+    }
+  },
+  {
+    "update_id": 630149596595263900,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1495965952,
+      "voice": {
+        "file_id": "BURB_PEPE/download_5861502878585192523.ogg"
+      }
+    }
+  },
+  {
+    "update_id": 630149596587263900,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1495965872,
+      "voice": {
+        "file_id": "BURB_PEPE/download_5861502878585192520.ogg"
+      }
+    }
+  }
+]

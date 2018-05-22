@@ -1,0 +1,509 @@
+[
+  {
+    "update_id": 630149924805859800,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 231759836,
+        "first_name": "Andreï Tarkovski",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001063268010,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1499248058,
+      "text": "#info\nWelcome on your new flux !! I'm proud to help you on your project\nThank you for adding me to this flux 😎 \n\nBefore add anybody to this flux, first set up this flux. Set the name, description, partners, locality, start date (e: #startdate 01.08.2017), subname(optional), and of course the color (hexa format, without the #).\nFor example, send me:\n\n#description This is my new description\n\nDone. I wish you'll enjoy my compagny and don't forget, for any problem, contact my best friend Vincent (@giardii)\n✈️✈️✈️"
+    }
+  },
+  {
+    "update_id": 630149923923463800,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001063268010,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1499239234,
+      "photo": [
+        {
+          "file_id": "BURB_Galleria_del_Vento/download_431704024_182883.jpg"
+        },
+        {
+          "file_id": "BURB_Galleria_del_Vento/download_431704024_182883.jpg"
+        },
+        {
+          "file_id": "BURB_Galleria_del_Vento/download_431704024_182883.jpg"
+        },
+        {
+          "file_id": "BURB_Galleria_del_Vento/download_431704024_182883.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630149918770370400,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 180170485,
+        "first_name": "Lorenzo",
+        "last_name": "Romito"
+      },
+      "chat": {
+        "id": -1001063268010,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1499187703,
+      "text": "Bellissimo!"
+    }
+  },
+  {
+    "update_id": 630149917688063900,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001063268010,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1499176880,
+      "photo": [
+        {
+          "file_id": "BURB_Galleria_del_Vento/download_430531577_207532.jpg"
+        },
+        {
+          "file_id": "BURB_Galleria_del_Vento/download_430531577_207532.jpg"
+        },
+        {
+          "file_id": "BURB_Galleria_del_Vento/download_430531577_207532.jpg"
+        },
+        {
+          "file_id": "BURB_Galleria_del_Vento/download_430531577_207532.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630149917674263800,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001063268010,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1499176742,
+      "photo": [
+        {
+          "file_id": "BURB_Galleria_del_Vento/download_429734991_90428.jpg"
+        },
+        {
+          "file_id": "BURB_Galleria_del_Vento/download_429734991_90428.jpg"
+        },
+        {
+          "file_id": "BURB_Galleria_del_Vento/download_429734991_90428.jpg"
+        },
+        {
+          "file_id": "BURB_Galleria_del_Vento/download_429734991_90428.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630149917666863900,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001063268010,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1499176668,
+      "photo": [
+        {
+          "file_id": "BURB_Galleria_del_Vento/download_431718282_180198.jpg"
+        },
+        {
+          "file_id": "BURB_Galleria_del_Vento/download_431718282_180198.jpg"
+        },
+        {
+          "file_id": "BURB_Galleria_del_Vento/download_431718282_180198.jpg"
+        },
+        {
+          "file_id": "BURB_Galleria_del_Vento/download_431718282_180198.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630149916836716000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 187616059,
+        "first_name": "Giulia",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001063268010,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1499168367,
+      "location": {
+        "latitude": 45.429136811815,
+        "longitude": 12.327762193174
+      }
+    }
+  },
+  {
+    "update_id": 630149916682563800,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001063268010,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1499166825,
+      "photo": [
+        {
+          "file_id": "BURB_Galleria_del_Vento/download_430518775_210008.jpg"
+        },
+        {
+          "file_id": "BURB_Galleria_del_Vento/download_430518775_210008.jpg"
+        },
+        {
+          "file_id": "BURB_Galleria_del_Vento/download_430518775_210008.jpg"
+        },
+        {
+          "file_id": "BURB_Galleria_del_Vento/download_430518775_210008.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630149916671463800,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001063268010,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1499166714,
+      "photo": [
+        {
+          "file_id": "BURB_Galleria_del_Vento/download_431838584_179505.jpg"
+        },
+        {
+          "file_id": "BURB_Galleria_del_Vento/download_431838584_179505.jpg"
+        },
+        {
+          "file_id": "BURB_Galleria_del_Vento/download_431838584_179505.jpg"
+        },
+        {
+          "file_id": "BURB_Galleria_del_Vento/download_431838584_179505.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630149916668763900,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001063268010,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1499166687,
+      "photo": [
+        {
+          "file_id": "BURB_Galleria_del_Vento/download_430402452_212669.jpg"
+        },
+        {
+          "file_id": "BURB_Galleria_del_Vento/download_430402452_212669.jpg"
+        },
+        {
+          "file_id": "BURB_Galleria_del_Vento/download_430402452_212669.jpg"
+        },
+        {
+          "file_id": "BURB_Galleria_del_Vento/download_430402452_212669.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630149916663163900,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001063268010,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1499166631,
+      "photo": [
+        {
+          "file_id": "BURB_Galleria_del_Vento/download_431840605_181029.jpg"
+        },
+        {
+          "file_id": "BURB_Galleria_del_Vento/download_431840605_181029.jpg"
+        },
+        {
+          "file_id": "BURB_Galleria_del_Vento/download_431840605_181029.jpg"
+        },
+        {
+          "file_id": "BURB_Galleria_del_Vento/download_431840605_181029.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630149916455616000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 187616059,
+        "first_name": "Giulia",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001063268010,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1499164556,
+      "location": {
+        "latitude": 45.424415902642,
+        "longitude": 12.319981190701
+      }
+    }
+  },
+  {
+    "update_id": 630149916331216000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 187616059,
+        "first_name": "Giulia",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001063268010,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1499163312,
+      "location": {
+        "latitude": 45.444155946151,
+        "longitude": 12.316945499027
+      }
+    }
+  },
+  {
+    "update_id": 630149916220516100,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 187616059,
+        "first_name": "Giulia",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001063268010,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1499162205,
+      "text": "The adventure of the Wind Tunnel is starting!"
+    }
+  },
+  {
+    "update_id": 630149916216716000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 187616059,
+        "first_name": "Giulia",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001063268010,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1499162167,
+      "text": "Back to Venice!"
+    }
+  },
+  {
+    "update_id": 630149916215116000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 187616059,
+        "first_name": "Giulia",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001063268010,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1499162151,
+      "location": {
+        "latitude": 45.463994491333,
+        "longitude": 12.284777522403
+      }
+    }
+  },
+  {
+    "update_id": 630149916200661000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 267061024,
+        "first_name": "Julien",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001063268010,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1499162006,
+      "text": "Nice ! And what will happen next ?"
+    }
+  },
+  {
+    "update_id": 630149916192763900,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001063268010,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1499161927,
+      "text": "Kasper&Florian just arrived in Venice!"
+    }
+  },
+  {
+    "update_id": 630149916190263800,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001063268010,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1499161902,
+      "photo": [
+        {
+          "file_id": "BURB_Galleria_del_Vento/download_431816833_179689.jpg"
+        },
+        {
+          "file_id": "BURB_Galleria_del_Vento/download_431816833_179689.jpg"
+        },
+        {
+          "file_id": "BURB_Galleria_del_Vento/download_431816833_179689.jpg"
+        },
+        {
+          "file_id": "BURB_Galleria_del_Vento/download_431816833_179689.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630149505867408800,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 220908780,
+        "first_name": "Elena Giulia",
+        "last_name": "Abbiatici"
+      },
+      "chat": {
+        "id": -1001063268010,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1495058674,
+      "text": "I Like! Catch the wind."
+    }
+  },
+  {
+    "update_id": 630149504393761000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 267061024,
+        "first_name": "Julien",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001063268010,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1495043937,
+      "text": "Supergroup yeah !"
+    }
+  }
+]

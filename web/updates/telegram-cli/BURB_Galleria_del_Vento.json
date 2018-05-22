@@ -1,0 +1,924 @@
+[
+  {
+    "event": "service",
+    "id": "05000000aa2e603f1a00000000000000b2267670da981ab6",
+    "flags": 8448,
+    "from": {
+      "id": "$010000005818210907ec88892adabc2d",
+      "peer_type": "user",
+      "peer_id": 153163864,
+      "print_name": "Andrea_Curtoni",
+      "flags": 196609,
+      "first_name": "Andrea",
+      "when": "2017-07-17 13:33:30",
+      "last_name": "Curtoni",
+      "phone": "393497181938"
+    },
+    "to": {
+      "id": "$05000000aa2e603fb2267670da981ab6",
+      "peer_type": "channel",
+      "peer_id": 1063268010,
+      "print_name": "BURB/Galleria_del_Vento",
+      "flags": 655361,
+      "title": "BURB/Galleria del Vento",
+      "participants_count": 0,
+      "admins_count": 0,
+      "kicked_count": 0
+    },
+    "out": false,
+    "unread": false,
+    "service": true,
+    "date": 1500093032,
+    "action": {
+      "type": "chat_add_user",
+      "user": {
+        "id": "$01000000c808bd0a0000000000000000",
+        "peer_type": "user",
+        "peer_id": 180160712,
+        "print_name": "Vincent_Giardina",
+        "flags": 524289,
+        "first_name": "Vincent",
+        "when": "2017-07-17 13:37:23",
+        "last_name": "Giardina",
+        "phone": "393348800510",
+        "username": "giardii"
+      }
+    }
+  },
+  {
+    "event": "message",
+    "id": "05000000aa2e603f1900000000000000b2267670da981ab6",
+    "flags": 256,
+    "from": {
+      "id": "$010000005818210907ec88892adabc2d",
+      "peer_type": "user",
+      "peer_id": 153163864,
+      "print_name": "Andrea_Curtoni",
+      "flags": 196609,
+      "first_name": "Andrea",
+      "when": "2017-07-17 13:33:30",
+      "last_name": "Curtoni",
+      "phone": "393497181938"
+    },
+    "to": {
+      "id": "$05000000aa2e603fb2267670da981ab6",
+      "peer_type": "channel",
+      "peer_id": 1063268010,
+      "print_name": "BURB/Galleria_del_Vento",
+      "flags": 655361,
+      "title": "BURB/Galleria del Vento",
+      "participants_count": 0,
+      "admins_count": 0,
+      "kicked_count": 0
+    },
+    "out": false,
+    "unread": false,
+    "service": false,
+    "date": 1499248186,
+    "media": {
+      "type": "photo",
+      "caption": "",
+      "file": "/Users/Vincent/Lines/telegram-history-dump/output/media/BURB_Galleria_del_Vento/download_430532603_210492.jpg"
+    }
+  },
+  {
+    "event": "message",
+    "id": "05000000aa2e603f1800000000000000b2267670da981ab6",
+    "flags": 256,
+    "from": {
+      "id": "$01000000dc5fd00d9f812f1d0fd41003",
+      "peer_type": "user",
+      "peer_id": 231759836,
+      "print_name": "Andreï_Tarkovski",
+      "flags": 1,
+      "first_name": "Andreï Tarkovski",
+      "last_name": "",
+      "username": "TarkovskiBot"
+    },
+    "to": {
+      "id": "$05000000aa2e603fb2267670da981ab6",
+      "peer_type": "channel",
+      "peer_id": 1063268010,
+      "print_name": "BURB/Galleria_del_Vento",
+      "flags": 655361,
+      "title": "BURB/Galleria del Vento",
+      "participants_count": 0,
+      "admins_count": 0,
+      "kicked_count": 0
+    },
+    "out": false,
+    "unread": false,
+    "service": false,
+    "date": 1499248058,
+    "text": "#info\nWelcome on your new flux !! I'm proud to help you on your project\nThank you for adding me to this flux 😎 \n\nBefore add anybody to this flux, first set up this flux. Set the name, description, partners, locality, start date (e: #startdate 01.08.2017),  subname(optional), and of course the color (hexa format, without the #).\nFor example, send me:\n\n#description This is my new description\n\nDone. I wish you'll enjoy my compagny and don't forget, for any problem, contact my best friend Vincent (@giardii)\n✈️✈️✈️"
+  },
+  {
+    "event": "service",
+    "id": "05000000aa2e603f1700000000000000b2267670da981ab6",
+    "flags": 8448,
+    "from": {
+      "id": "$010000005818210907ec88892adabc2d",
+      "peer_type": "user",
+      "peer_id": 153163864,
+      "print_name": "Andrea_Curtoni",
+      "flags": 196609,
+      "first_name": "Andrea",
+      "when": "2017-07-17 13:33:30",
+      "last_name": "Curtoni",
+      "phone": "393497181938"
+    },
+    "to": {
+      "id": "$05000000aa2e603fb2267670da981ab6",
+      "peer_type": "channel",
+      "peer_id": 1063268010,
+      "print_name": "BURB/Galleria_del_Vento",
+      "flags": 655361,
+      "title": "BURB/Galleria del Vento",
+      "participants_count": 0,
+      "admins_count": 0,
+      "kicked_count": 0
+    },
+    "out": false,
+    "unread": false,
+    "service": true,
+    "date": 1499248058,
+    "action": {
+      "type": "chat_add_user",
+      "user": {
+        "id": "$01000000dc5fd00d0000000000000000",
+        "peer_type": "user",
+        "peer_id": 231759836,
+        "print_name": "Andreï_Tarkovski",
+        "flags": 1,
+        "first_name": "Andreï Tarkovski",
+        "last_name": "",
+        "username": "TarkovskiBot"
+      }
+    }
+  },
+  {
+    "event": "service",
+    "id": "05000000aa2e603f1600000000000000b2267670da981ab6",
+    "flags": 8448,
+    "from": {
+      "id": "$010000005818210907ec88892adabc2d",
+      "peer_type": "user",
+      "peer_id": 153163864,
+      "print_name": "Andrea_Curtoni",
+      "flags": 196609,
+      "first_name": "Andrea",
+      "when": "2017-07-17 13:33:30",
+      "last_name": "Curtoni",
+      "phone": "393497181938"
+    },
+    "to": {
+      "id": "$05000000aa2e603fb2267670da981ab6",
+      "peer_type": "channel",
+      "peer_id": 1063268010,
+      "print_name": "BURB/Galleria_del_Vento",
+      "flags": 655361,
+      "title": "BURB/Galleria del Vento",
+      "participants_count": 0,
+      "admins_count": 0,
+      "kicked_count": 0
+    },
+    "out": false,
+    "unread": false,
+    "service": true,
+    "date": 1499248040,
+    "action": {
+      "type": "chat_del_user",
+      "user": {
+        "id": "$01000000dc5fd00d0000000000000000",
+        "peer_type": "user",
+        "peer_id": 231759836,
+        "print_name": "Andreï_Tarkovski",
+        "flags": 1,
+        "first_name": "Andreï Tarkovski",
+        "last_name": "",
+        "username": "TarkovskiBot"
+      }
+    }
+  },
+  {
+    "event": "message",
+    "id": "05000000aa2e603f1500000000000000b2267670da981ab6",
+    "flags": 256,
+    "from": {
+      "id": "$010000005818210907ec88892adabc2d",
+      "peer_type": "user",
+      "peer_id": 153163864,
+      "print_name": "Andrea_Curtoni",
+      "flags": 196609,
+      "first_name": "Andrea",
+      "when": "2017-07-17 13:33:30",
+      "last_name": "Curtoni",
+      "phone": "393497181938"
+    },
+    "to": {
+      "id": "$05000000aa2e603fb2267670da981ab6",
+      "peer_type": "channel",
+      "peer_id": 1063268010,
+      "print_name": "BURB/Galleria_del_Vento",
+      "flags": 655361,
+      "title": "BURB/Galleria del Vento",
+      "participants_count": 0,
+      "admins_count": 0,
+      "kicked_count": 0
+    },
+    "out": false,
+    "unread": false,
+    "service": false,
+    "date": 1499239234,
+    "media": {
+      "type": "photo",
+      "caption": "",
+      "file": "/Users/Vincent/Lines/telegram-history-dump/output/media/BURB_Galleria_del_Vento/download_431704024_182883.jpg"
+    }
+  },
+  {
+    "event": "message",
+    "id": "05000000aa2e603f1400000000000000b2267670da981ab6",
+    "flags": 256,
+    "from": {
+      "id": "$01000000f52ebd0a0e6bc9ab8f885c7b",
+      "peer_type": "user",
+      "peer_id": 180170485,
+      "print_name": "Lorenzo_Romito",
+      "flags": 196609,
+      "first_name": "Lorenzo",
+      "when": "2017-07-17 11:56:40",
+      "last_name": "Romito",
+      "phone": "393487039211"
+    },
+    "to": {
+      "id": "$05000000aa2e603fb2267670da981ab6",
+      "peer_type": "channel",
+      "peer_id": 1063268010,
+      "print_name": "BURB/Galleria_del_Vento",
+      "flags": 655361,
+      "title": "BURB/Galleria del Vento",
+      "participants_count": 0,
+      "admins_count": 0,
+      "kicked_count": 0
+    },
+    "out": false,
+    "unread": false,
+    "service": false,
+    "date": 1499187703,
+    "text": "Bellissimo!"
+  },
+  {
+    "event": "message",
+    "id": "05000000aa2e603f1300000000000000b2267670da981ab6",
+    "flags": 256,
+    "from": {
+      "id": "$010000005818210907ec88892adabc2d",
+      "peer_type": "user",
+      "peer_id": 153163864,
+      "print_name": "Andrea_Curtoni",
+      "flags": 196609,
+      "first_name": "Andrea",
+      "when": "2017-07-17 13:33:30",
+      "last_name": "Curtoni",
+      "phone": "393497181938"
+    },
+    "to": {
+      "id": "$05000000aa2e603fb2267670da981ab6",
+      "peer_type": "channel",
+      "peer_id": 1063268010,
+      "print_name": "BURB/Galleria_del_Vento",
+      "flags": 655361,
+      "title": "BURB/Galleria del Vento",
+      "participants_count": 0,
+      "admins_count": 0,
+      "kicked_count": 0
+    },
+    "out": false,
+    "unread": false,
+    "service": false,
+    "date": 1499176880,
+    "media": {
+      "type": "photo",
+      "caption": "Sistema di pompaggio per test idraulici nel modello",
+      "file": "/Users/Vincent/Lines/telegram-history-dump/output/media/BURB_Galleria_del_Vento/download_430531577_207532.jpg"
+    }
+  },
+  {
+    "event": "message",
+    "id": "05000000aa2e603f1200000000000000b2267670da981ab6",
+    "flags": 256,
+    "from": {
+      "id": "$010000005818210907ec88892adabc2d",
+      "peer_type": "user",
+      "peer_id": 153163864,
+      "print_name": "Andrea_Curtoni",
+      "flags": 196609,
+      "first_name": "Andrea",
+      "when": "2017-07-17 13:33:30",
+      "last_name": "Curtoni",
+      "phone": "393497181938"
+    },
+    "to": {
+      "id": "$05000000aa2e603fb2267670da981ab6",
+      "peer_type": "channel",
+      "peer_id": 1063268010,
+      "print_name": "BURB/Galleria_del_Vento",
+      "flags": 655361,
+      "title": "BURB/Galleria del Vento",
+      "participants_count": 0,
+      "admins_count": 0,
+      "kicked_count": 0
+    },
+    "out": false,
+    "unread": false,
+    "service": false,
+    "date": 1499176742,
+    "media": {
+      "type": "photo",
+      "caption": "Model of the laguna di venezia",
+      "file": "/Users/Vincent/Lines/telegram-history-dump/output/media/BURB_Galleria_del_Vento/download_429734991_90428.jpg"
+    }
+  },
+  {
+    "event": "message",
+    "id": "05000000aa2e603f1100000000000000b2267670da981ab6",
+    "flags": 256,
+    "from": {
+      "id": "$010000005818210907ec88892adabc2d",
+      "peer_type": "user",
+      "peer_id": 153163864,
+      "print_name": "Andrea_Curtoni",
+      "flags": 196609,
+      "first_name": "Andrea",
+      "when": "2017-07-17 13:33:30",
+      "last_name": "Curtoni",
+      "phone": "393497181938"
+    },
+    "to": {
+      "id": "$05000000aa2e603fb2267670da981ab6",
+      "peer_type": "channel",
+      "peer_id": 1063268010,
+      "print_name": "BURB/Galleria_del_Vento",
+      "flags": 655361,
+      "title": "BURB/Galleria del Vento",
+      "participants_count": 0,
+      "admins_count": 0,
+      "kicked_count": 0
+    },
+    "out": false,
+    "unread": false,
+    "service": false,
+    "date": 1499176668,
+    "media": {
+      "type": "photo",
+      "caption": "",
+      "file": "/Users/Vincent/Lines/telegram-history-dump/output/media/BURB_Galleria_del_Vento/download_431718282_180198.jpg"
+    }
+  },
+  {
+    "event": "message",
+    "id": "05000000aa2e603f1000000000000000b2267670da981ab6",
+    "flags": 256,
+    "from": {
+      "id": "$010000003bcb2e0b07dd763a60692086",
+      "peer_type": "user",
+      "peer_id": 187616059,
+      "print_name": "Giulia",
+      "flags": 196609,
+      "first_name": "Giulia",
+      "when": "2017-07-17 13:12:19",
+      "last_name": "",
+      "phone": "393427590790"
+    },
+    "to": {
+      "id": "$05000000aa2e603fb2267670da981ab6",
+      "peer_type": "channel",
+      "peer_id": 1063268010,
+      "print_name": "BURB/Galleria_del_Vento",
+      "flags": 655361,
+      "title": "BURB/Galleria del Vento",
+      "participants_count": 0,
+      "admins_count": 0,
+      "kicked_count": 0
+    },
+    "out": false,
+    "unread": false,
+    "service": false,
+    "date": 1499168367,
+    "media": {
+      "type": "geo",
+      "longitude": 12.327762193173527,
+      "latitude": 45.42913681181541
+    }
+  },
+  {
+    "event": "message",
+    "id": "05000000aa2e603f0f00000000000000b2267670da981ab6",
+    "flags": 256,
+    "from": {
+      "id": "$010000005818210907ec88892adabc2d",
+      "peer_type": "user",
+      "peer_id": 153163864,
+      "print_name": "Andrea_Curtoni",
+      "flags": 196609,
+      "first_name": "Andrea",
+      "when": "2017-07-17 13:33:30",
+      "last_name": "Curtoni",
+      "phone": "393497181938"
+    },
+    "to": {
+      "id": "$05000000aa2e603fb2267670da981ab6",
+      "peer_type": "channel",
+      "peer_id": 1063268010,
+      "print_name": "BURB/Galleria_del_Vento",
+      "flags": 655361,
+      "title": "BURB/Galleria del Vento",
+      "participants_count": 0,
+      "admins_count": 0,
+      "kicked_count": 0
+    },
+    "out": false,
+    "unread": false,
+    "service": false,
+    "date": 1499166825,
+    "media": {
+      "type": "photo",
+      "caption": "",
+      "file": "/Users/Vincent/Lines/telegram-history-dump/output/media/BURB_Galleria_del_Vento/download_430518775_210008.jpg"
+    }
+  },
+  {
+    "event": "message",
+    "id": "05000000aa2e603f0e00000000000000b2267670da981ab6",
+    "flags": 256,
+    "from": {
+      "id": "$010000005818210907ec88892adabc2d",
+      "peer_type": "user",
+      "peer_id": 153163864,
+      "print_name": "Andrea_Curtoni",
+      "flags": 196609,
+      "first_name": "Andrea",
+      "when": "2017-07-17 13:33:30",
+      "last_name": "Curtoni",
+      "phone": "393497181938"
+    },
+    "to": {
+      "id": "$05000000aa2e603fb2267670da981ab6",
+      "peer_type": "channel",
+      "peer_id": 1063268010,
+      "print_name": "BURB/Galleria_del_Vento",
+      "flags": 655361,
+      "title": "BURB/Galleria del Vento",
+      "participants_count": 0,
+      "admins_count": 0,
+      "kicked_count": 0
+    },
+    "out": false,
+    "unread": false,
+    "service": false,
+    "date": 1499166714,
+    "media": {
+      "type": "photo",
+      "caption": "",
+      "file": "/Users/Vincent/Lines/telegram-history-dump/output/media/BURB_Galleria_del_Vento/download_431838584_179505.jpg"
+    }
+  },
+  {
+    "event": "message",
+    "id": "05000000aa2e603f0d00000000000000b2267670da981ab6",
+    "flags": 256,
+    "from": {
+      "id": "$010000005818210907ec88892adabc2d",
+      "peer_type": "user",
+      "peer_id": 153163864,
+      "print_name": "Andrea_Curtoni",
+      "flags": 196609,
+      "first_name": "Andrea",
+      "when": "2017-07-17 13:33:30",
+      "last_name": "Curtoni",
+      "phone": "393497181938"
+    },
+    "to": {
+      "id": "$05000000aa2e603fb2267670da981ab6",
+      "peer_type": "channel",
+      "peer_id": 1063268010,
+      "print_name": "BURB/Galleria_del_Vento",
+      "flags": 655361,
+      "title": "BURB/Galleria del Vento",
+      "participants_count": 0,
+      "admins_count": 0,
+      "kicked_count": 0
+    },
+    "out": false,
+    "unread": false,
+    "service": false,
+    "date": 1499166687,
+    "media": {
+      "type": "photo",
+      "caption": "",
+      "file": "/Users/Vincent/Lines/telegram-history-dump/output/media/BURB_Galleria_del_Vento/download_430402452_212669.jpg"
+    }
+  },
+  {
+    "event": "message",
+    "id": "05000000aa2e603f0c00000000000000b2267670da981ab6",
+    "flags": 256,
+    "from": {
+      "id": "$010000005818210907ec88892adabc2d",
+      "peer_type": "user",
+      "peer_id": 153163864,
+      "print_name": "Andrea_Curtoni",
+      "flags": 196609,
+      "first_name": "Andrea",
+      "when": "2017-07-17 13:33:30",
+      "last_name": "Curtoni",
+      "phone": "393497181938"
+    },
+    "to": {
+      "id": "$05000000aa2e603fb2267670da981ab6",
+      "peer_type": "channel",
+      "peer_id": 1063268010,
+      "print_name": "BURB/Galleria_del_Vento",
+      "flags": 655361,
+      "title": "BURB/Galleria del Vento",
+      "participants_count": 0,
+      "admins_count": 0,
+      "kicked_count": 0
+    },
+    "out": false,
+    "unread": false,
+    "service": false,
+    "date": 1499166631,
+    "media": {
+      "type": "photo",
+      "caption": "",
+      "file": "/Users/Vincent/Lines/telegram-history-dump/output/media/BURB_Galleria_del_Vento/download_431840605_181029.jpg"
+    }
+  },
+  {
+    "event": "message",
+    "id": "05000000aa2e603f0b00000000000000b2267670da981ab6",
+    "flags": 256,
+    "from": {
+      "id": "$010000003bcb2e0b07dd763a60692086",
+      "peer_type": "user",
+      "peer_id": 187616059,
+      "print_name": "Giulia",
+      "flags": 196609,
+      "first_name": "Giulia",
+      "when": "2017-07-17 13:12:19",
+      "last_name": "",
+      "phone": "393427590790"
+    },
+    "to": {
+      "id": "$05000000aa2e603fb2267670da981ab6",
+      "peer_type": "channel",
+      "peer_id": 1063268010,
+      "print_name": "BURB/Galleria_del_Vento",
+      "flags": 655361,
+      "title": "BURB/Galleria del Vento",
+      "participants_count": 0,
+      "admins_count": 0,
+      "kicked_count": 0
+    },
+    "out": false,
+    "unread": false,
+    "service": false,
+    "date": 1499164556,
+    "media": {
+      "type": "geo",
+      "longitude": 12.319981190701204,
+      "latitude": 45.42441590264162
+    }
+  },
+  {
+    "event": "message",
+    "id": "05000000aa2e603f0a00000000000000b2267670da981ab6",
+    "flags": 256,
+    "from": {
+      "id": "$010000003bcb2e0b07dd763a60692086",
+      "peer_type": "user",
+      "peer_id": 187616059,
+      "print_name": "Giulia",
+      "flags": 196609,
+      "first_name": "Giulia",
+      "when": "2017-07-17 13:12:19",
+      "last_name": "",
+      "phone": "393427590790"
+    },
+    "to": {
+      "id": "$05000000aa2e603fb2267670da981ab6",
+      "peer_type": "channel",
+      "peer_id": 1063268010,
+      "print_name": "BURB/Galleria_del_Vento",
+      "flags": 655361,
+      "title": "BURB/Galleria del Vento",
+      "participants_count": 0,
+      "admins_count": 0,
+      "kicked_count": 0
+    },
+    "out": false,
+    "unread": false,
+    "service": false,
+    "date": 1499163312,
+    "media": {
+      "type": "geo",
+      "longitude": 12.316945499026964,
+      "latitude": 45.444155946151255
+    }
+  },
+  {
+    "event": "message",
+    "id": "05000000aa2e603f0900000000000000b2267670da981ab6",
+    "flags": 256,
+    "from": {
+      "id": "$010000003bcb2e0b07dd763a60692086",
+      "peer_type": "user",
+      "peer_id": 187616059,
+      "print_name": "Giulia",
+      "flags": 196609,
+      "first_name": "Giulia",
+      "when": "2017-07-17 13:12:19",
+      "last_name": "",
+      "phone": "393427590790"
+    },
+    "to": {
+      "id": "$05000000aa2e603fb2267670da981ab6",
+      "peer_type": "channel",
+      "peer_id": 1063268010,
+      "print_name": "BURB/Galleria_del_Vento",
+      "flags": 655361,
+      "title": "BURB/Galleria del Vento",
+      "participants_count": 0,
+      "admins_count": 0,
+      "kicked_count": 0
+    },
+    "out": false,
+    "unread": false,
+    "service": false,
+    "date": 1499162205,
+    "text": "The adventure of the Wind Tunnel is starting!"
+  },
+  {
+    "event": "message",
+    "id": "05000000aa2e603f0800000000000000b2267670da981ab6",
+    "flags": 256,
+    "from": {
+      "id": "$010000003bcb2e0b07dd763a60692086",
+      "peer_type": "user",
+      "peer_id": 187616059,
+      "print_name": "Giulia",
+      "flags": 196609,
+      "first_name": "Giulia",
+      "when": "2017-07-17 13:12:19",
+      "last_name": "",
+      "phone": "393427590790"
+    },
+    "to": {
+      "id": "$05000000aa2e603fb2267670da981ab6",
+      "peer_type": "channel",
+      "peer_id": 1063268010,
+      "print_name": "BURB/Galleria_del_Vento",
+      "flags": 655361,
+      "title": "BURB/Galleria del Vento",
+      "participants_count": 0,
+      "admins_count": 0,
+      "kicked_count": 0
+    },
+    "out": false,
+    "unread": false,
+    "service": false,
+    "date": 1499162167,
+    "text": "Back to Venice!"
+  },
+  {
+    "event": "message",
+    "id": "05000000aa2e603f0700000000000000b2267670da981ab6",
+    "flags": 256,
+    "from": {
+      "id": "$010000003bcb2e0b07dd763a60692086",
+      "peer_type": "user",
+      "peer_id": 187616059,
+      "print_name": "Giulia",
+      "flags": 196609,
+      "first_name": "Giulia",
+      "when": "2017-07-17 13:12:19",
+      "last_name": "",
+      "phone": "393427590790"
+    },
+    "to": {
+      "id": "$05000000aa2e603fb2267670da981ab6",
+      "peer_type": "channel",
+      "peer_id": 1063268010,
+      "print_name": "BURB/Galleria_del_Vento",
+      "flags": 655361,
+      "title": "BURB/Galleria del Vento",
+      "participants_count": 0,
+      "admins_count": 0,
+      "kicked_count": 0
+    },
+    "out": false,
+    "unread": false,
+    "service": false,
+    "date": 1499162151,
+    "media": {
+      "type": "geo",
+      "longitude": 12.284777522403047,
+      "latitude": 45.46399449133348
+    }
+  },
+  {
+    "event": "message",
+    "id": "05000000aa2e603f0600000000000000b2267670da981ab6",
+    "flags": 256,
+    "from": {
+      "id": "$010000002007eb0f05bdd8b40fb0ade7",
+      "peer_type": "user",
+      "peer_id": 267061024,
+      "print_name": "Julien",
+      "flags": 1,
+      "first_name": "Julien",
+      "last_name": ""
+    },
+    "to": {
+      "id": "$05000000aa2e603fb2267670da981ab6",
+      "peer_type": "channel",
+      "peer_id": 1063268010,
+      "print_name": "BURB/Galleria_del_Vento",
+      "flags": 655361,
+      "title": "BURB/Galleria del Vento",
+      "participants_count": 0,
+      "admins_count": 0,
+      "kicked_count": 0
+    },
+    "out": false,
+    "unread": false,
+    "service": false,
+    "date": 1499162006,
+    "text": "Nice ! And what will happen next ?"
+  },
+  {
+    "event": "message",
+    "id": "05000000aa2e603f0500000000000000b2267670da981ab6",
+    "flags": 256,
+    "from": {
+      "id": "$010000005818210907ec88892adabc2d",
+      "peer_type": "user",
+      "peer_id": 153163864,
+      "print_name": "Andrea_Curtoni",
+      "flags": 196609,
+      "first_name": "Andrea",
+      "when": "2017-07-17 13:33:30",
+      "last_name": "Curtoni",
+      "phone": "393497181938"
+    },
+    "to": {
+      "id": "$05000000aa2e603fb2267670da981ab6",
+      "peer_type": "channel",
+      "peer_id": 1063268010,
+      "print_name": "BURB/Galleria_del_Vento",
+      "flags": 655361,
+      "title": "BURB/Galleria del Vento",
+      "participants_count": 0,
+      "admins_count": 0,
+      "kicked_count": 0
+    },
+    "out": false,
+    "unread": false,
+    "service": false,
+    "date": 1499161927,
+    "text": "Kasper&Florian just arrived in Venice!"
+  },
+  {
+    "event": "message",
+    "id": "05000000aa2e603f0400000000000000b2267670da981ab6",
+    "flags": 256,
+    "from": {
+      "id": "$010000005818210907ec88892adabc2d",
+      "peer_type": "user",
+      "peer_id": 153163864,
+      "print_name": "Andrea_Curtoni",
+      "flags": 196609,
+      "first_name": "Andrea",
+      "when": "2017-07-17 13:33:30",
+      "last_name": "Curtoni",
+      "phone": "393497181938"
+    },
+    "to": {
+      "id": "$05000000aa2e603fb2267670da981ab6",
+      "peer_type": "channel",
+      "peer_id": 1063268010,
+      "print_name": "BURB/Galleria_del_Vento",
+      "flags": 655361,
+      "title": "BURB/Galleria del Vento",
+      "participants_count": 0,
+      "admins_count": 0,
+      "kicked_count": 0
+    },
+    "out": false,
+    "unread": false,
+    "service": false,
+    "date": 1499161902,
+    "media": {
+      "type": "photo",
+      "caption": "",
+      "file": "/Users/Vincent/Lines/telegram-history-dump/output/media/BURB_Galleria_del_Vento/download_431816833_179689.jpg"
+    }
+  },
+  {
+    "event": "message",
+    "id": "05000000aa2e603f0300000000000000b2267670da981ab6",
+    "flags": 256,
+    "from": {
+      "id": "$01000000eccc2a0d169c1ba005abd60f",
+      "peer_type": "user",
+      "peer_id": 220908780,
+      "print_name": "Elena_Giulia_Abbiatici",
+      "flags": 1,
+      "first_name": "Elena Giulia",
+      "when": "2017-07-16 21:04:15",
+      "last_name": "Abbiatici"
+    },
+    "to": {
+      "id": "$05000000aa2e603fb2267670da981ab6",
+      "peer_type": "channel",
+      "peer_id": 1063268010,
+      "print_name": "BURB/Galleria_del_Vento",
+      "flags": 655361,
+      "title": "BURB/Galleria del Vento",
+      "participants_count": 0,
+      "admins_count": 0,
+      "kicked_count": 0
+    },
+    "out": false,
+    "unread": false,
+    "service": false,
+    "date": 1495058674,
+    "text": "I Like! Catch the wind."
+  },
+  {
+    "event": "message",
+    "id": "05000000aa2e603f0200000000000000b2267670da981ab6",
+    "flags": 256,
+    "from": {
+      "id": "$010000002007eb0f05bdd8b40fb0ade7",
+      "peer_type": "user",
+      "peer_id": 267061024,
+      "print_name": "Julien",
+      "flags": 1,
+      "first_name": "Julien",
+      "last_name": ""
+    },
+    "to": {
+      "id": "$05000000aa2e603fb2267670da981ab6",
+      "peer_type": "channel",
+      "peer_id": 1063268010,
+      "print_name": "BURB/Galleria_del_Vento",
+      "flags": 655361,
+      "title": "BURB/Galleria del Vento",
+      "participants_count": 0,
+      "admins_count": 0,
+      "kicked_count": 0
+    },
+    "out": false,
+    "unread": false,
+    "service": false,
+    "date": 1495043937,
+    "text": "Supergroup yeah !"
+  },
+  {
+    "event": "service",
+    "id": "05000000aa2e603f0100000000000000b2267670da981ab6",
+    "flags": 8448,
+    "from": {
+      "id": "$010000005818210907ec88892adabc2d",
+      "peer_type": "user",
+      "peer_id": 153163864,
+      "print_name": "Andrea_Curtoni",
+      "flags": 196609,
+      "first_name": "Andrea",
+      "when": "2017-07-17 13:33:30",
+      "last_name": "Curtoni",
+      "phone": "393497181938"
+    },
+    "to": {
+      "id": "$05000000aa2e603fb2267670da981ab6",
+      "peer_type": "channel",
+      "peer_id": 1063268010,
+      "print_name": "BURB/Galleria_del_Vento",
+      "flags": 655361,
+      "title": "BURB/Galleria del Vento",
+      "participants_count": 0,
+      "admins_count": 0,
+      "kicked_count": 0
+    },
+    "out": false,
+    "unread": false,
+    "service": true,
+    "date": 1495039582,
+    "action": {
+      "type": "migrated_from"
+    }
+  }
+]

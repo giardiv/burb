@@ -1,0 +1,7105 @@
+[
+  {
+    "update_id": 630147359571016100,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 187616059,
+        "first_name": "Giulia",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473595710,
+      "voice": {
+        "file_id": "BURB_PEPE1/download_805804837609406484.ogg"
+      }
+    }
+  },
+  {
+    "update_id": 630147359570416000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 187616059,
+        "first_name": "Giulia",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473595704,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425431579_103290.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425431579_103290.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425431579_103290.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425431579_103290.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147359462463900,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473594624,
+      "video": {
+        "file_id": "BURB_PEPE1/download_657833786808991849.mp4"
+      }
+    }
+  },
+  {
+    "update_id": 630147359461263900,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473594612,
+      "voice": {
+        "file_id": "BURB_PEPE1/download_657833786808991848.ogg"
+      }
+    }
+  },
+  {
+    "update_id": 630147359433516000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 187616059,
+        "first_name": "Giulia",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473594335,
+      "text": "Working with Nicola DiCroce"
+    }
+  },
+  {
+    "update_id": 630147359155626000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 264326019,
+        "first_name": "Luca",
+        "last_name": "Muscarà"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473591556,
+      "text": "L  I  K  E"
+    }
+  },
+  {
+    "update_id": 630147358974863900,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473589748,
+      "location": {
+        "latitude": 45.427152317761,
+        "longitude": 12.382418813041
+      }
+    }
+  },
+  {
+    "update_id": 630147358967063800,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473589670,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425229759_101185.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425229759_101185.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425229759_101185.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425229759_101185.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147358967063800,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473589670,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_426313527_66594.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426313527_66594.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426313527_66594.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426313527_66594.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147358966663800,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473589666,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_426211952_66496.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426211952_66496.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426211952_66496.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426211952_66496.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147358966063900,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473589660,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425431709_103292.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425431709_103292.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425431709_103292.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425431709_103292.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147358965663900,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473589656,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425705158_101027.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425705158_101027.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425705158_101027.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425705158_101027.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147358960863900,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473589608,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_426222912_66175.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426222912_66175.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426222912_66175.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426222912_66175.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147358960663800,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473589606,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_426132743_67290.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426132743_67290.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426132743_67290.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426132743_67290.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147358330226000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 264326019,
+        "first_name": "Luca",
+        "last_name": "Muscarà"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473583302
+    }
+  },
+  {
+    "update_id": 630147358330026000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 264326019,
+        "first_name": "Luca",
+        "last_name": "Muscarà"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473583300
+    }
+  },
+  {
+    "update_id": 630147358330026000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 264326019,
+        "first_name": "Luca",
+        "last_name": "Muscarà"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473583300
+    }
+  },
+  {
+    "update_id": 630147358329826000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 264326019,
+        "first_name": "Luca",
+        "last_name": "Muscarà"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473583298
+    }
+  },
+  {
+    "update_id": 630147358329626000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 264326019,
+        "first_name": "Luca",
+        "last_name": "Muscarà"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473583296
+    }
+  },
+  {
+    "update_id": 630147358329626000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 264326019,
+        "first_name": "Luca",
+        "last_name": "Muscarà"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473583296
+    }
+  },
+  {
+    "update_id": 630147358329626000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 264326019,
+        "first_name": "Luca",
+        "last_name": "Muscarà"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473583296
+    }
+  },
+  {
+    "update_id": 630147358329426000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 264326019,
+        "first_name": "Luca",
+        "last_name": "Muscarà"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473583294
+    }
+  },
+  {
+    "update_id": 630147358329426000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 264326019,
+        "first_name": "Luca",
+        "last_name": "Muscarà"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473583294
+    }
+  },
+  {
+    "update_id": 630147358329226000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 264326019,
+        "first_name": "Luca",
+        "last_name": "Muscarà"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473583292
+    }
+  },
+  {
+    "update_id": 630147358329026000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 264326019,
+        "first_name": "Luca",
+        "last_name": "Muscarà"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473583290
+    }
+  },
+  {
+    "update_id": 630147358329026000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 264326019,
+        "first_name": "Luca",
+        "last_name": "Muscarà"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473583290
+    }
+  },
+  {
+    "update_id": 630147358328826000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 264326019,
+        "first_name": "Luca",
+        "last_name": "Muscarà"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473583288
+    }
+  },
+  {
+    "update_id": 630147352130916100,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 187616059,
+        "first_name": "Giulia",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473521309,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_426139521_64400.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426139521_64400.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426139521_64400.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426139521_64400.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147352130716000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 187616059,
+        "first_name": "Giulia",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473521307,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425311468_115562.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425311468_115562.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425311468_115562.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425311468_115562.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147352130516100,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 187616059,
+        "first_name": "Giulia",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473521305,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425605518_100063.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425605518_100063.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425605518_100063.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425605518_100063.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147352130516100,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 187616059,
+        "first_name": "Giulia",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473521305,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_426114894_64405.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426114894_64405.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426114894_64405.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426114894_64405.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147352130116100,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 187616059,
+        "first_name": "Giulia",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473521301,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425701479_100202.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425701479_100202.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425701479_100202.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425701479_100202.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147352130116100,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 187616059,
+        "first_name": "Giulia",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473521301,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425634807_99378.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425634807_99378.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425634807_99378.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425634807_99378.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147352129916000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 187616059,
+        "first_name": "Giulia",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473521299,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425730895_98711.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425730895_98711.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425730895_98711.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425730895_98711.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147352129716100,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 187616059,
+        "first_name": "Giulia",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473521297,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425331196_98839.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425331196_98839.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425331196_98839.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425331196_98839.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147352129516000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 187616059,
+        "first_name": "Giulia",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473521295,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_426203390_65096.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426203390_65096.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426203390_65096.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426203390_65096.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147352129516000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 187616059,
+        "first_name": "Giulia",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473521295,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425319262_99267.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425319262_99267.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425319262_99267.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425319262_99267.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147351716741400,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 204441421,
+        "first_name": "Lorenzo",
+        "last_name": "Bottiglieri"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473517167,
+      "video": {
+        "file_id": "BURB_PEPE1/download_878069217142767654.mp4"
+      }
+    }
+  },
+  {
+    "update_id": 630147346371863800,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473463718,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_426107664_63261.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426107664_63261.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426107664_63261.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426107664_63261.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147346371463800,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473463714,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_426221908_63295.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426221908_63295.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426221908_63295.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426221908_63295.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147346366163800,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473463661,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425312129_98455.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425312129_98455.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425312129_98455.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425312129_98455.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147346351363800,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473463513,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425312129_98455.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425312129_98455.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425312129_98455.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425312129_98455.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147346250063900,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473462500,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425234304_98360.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425234304_98360.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425234304_98360.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425234304_98360.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147346250063900,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473462500,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425630011_98201.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425630011_98201.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425630011_98201.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425630011_98201.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147345471063800,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473454710,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425637373_98269.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425637373_98269.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425637373_98269.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425637373_98269.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147345471063800,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473454710,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425333687_97877.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425333687_97877.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425333687_97877.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425333687_97877.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147345377063800,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473453770,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425431337_100487.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425431337_100487.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425431337_100487.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425431337_100487.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147345314063900,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473453140,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_426303550_63491.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426303550_63491.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426303550_63491.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426303550_63491.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147342560208800,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 220908780,
+        "first_name": "Elena Giulia",
+        "last_name": "Abbiatici"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473425602,
+      "video": {
+        "file_id": "BURB_PEPE1/download_948795985499258884.mp4"
+      }
+    }
+  },
+  {
+    "update_id": 630147334706408800,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 220908780,
+        "first_name": "Elena Giulia",
+        "last_name": "Abbiatici"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473347064,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425322748_94601.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425322748_94601.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425322748_94601.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425322748_94601.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147334705808800,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 220908780,
+        "first_name": "Elena Giulia",
+        "last_name": "Abbiatici"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473347058,
+      "text": "Vi mando un bacio, pensandovi sotto il cielo d Kiefer"
+    }
+  },
+  {
+    "update_id": 630147334684416000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 187616059,
+        "first_name": "Giulia",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473346844,
+      "text": "Con regalo!"
+    }
+  },
+  {
+    "update_id": 630147334682316000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 187616059,
+        "first_name": "Giulia",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473346823,
+      "text": "È arrivata una nuova residente! Manuela!"
+    }
+  },
+  {
+    "update_id": 630147334560041500,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 204441421,
+        "first_name": "Lorenzo",
+        "last_name": "Bottiglieri"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473345600,
+      "text": "Noi siamo attaccati al Nicelli! Caserma Pepe"
+    }
+  },
+  {
+    "update_id": 630147334404298000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 172197979,
+        "first_name": "g. olmo stuppia",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473344042,
+      "text": "Sono all'ufficio stampa, ora ai Carminati pero"
+    }
+  },
+  {
+    "update_id": 630147334401616000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 173716027,
+        "first_name": "Francesco",
+        "last_name": "Quarta Colosso"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473344016,
+      "text": "Bottiglieri che ti ridi sotto quei baffi finti ?"
+    }
+  },
+  {
+    "update_id": 630147334397341400,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 204441421,
+        "first_name": "Lorenzo",
+        "last_name": "Bottiglieri"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473343973,
+      "text": "Ma noi siamo al lido! Dove lavori?"
+    }
+  },
+  {
+    "update_id": 630147334394897900,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 172197979,
+        "first_name": "g. olmo stuppia",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473343948,
+      "text": "Lavoro al lido ahime, verrei volentieri ma ho la barca senza assicurazione..."
+    }
+  },
+  {
+    "update_id": 630147334392241400,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 204441421,
+        "first_name": "Lorenzo",
+        "last_name": "Bottiglieri"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473343922,
+      "text": "Olmo che fai? :D vieni a trovarci !!"
+    }
+  },
+  {
+    "update_id": 630147333976698000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 172197979,
+        "first_name": "g. olmo stuppia",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473339766,
+      "text": "Bravi ragazzi!"
+    }
+  },
+  {
+    "update_id": 630147333575726100,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 264326019,
+        "first_name": "Luca",
+        "last_name": "Muscarà"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473335757,
+      "text": "L  I  K  E"
+    }
+  },
+  {
+    "update_id": 630147333115616000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 187616059,
+        "first_name": "Giulia",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473331156,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425638160_95004.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425638160_95004.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425638160_95004.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425638160_95004.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147332098026000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 264326019,
+        "first_name": "Luca",
+        "last_name": "Muscarà"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473320980,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425407358_150945.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425407358_150945.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425407358_150945.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425407358_150945.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147331449126000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 264326019,
+        "first_name": "Luca",
+        "last_name": "Muscarà"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473314491
+    }
+  },
+  {
+    "update_id": 630147331062526100,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 264326019,
+        "first_name": "Luca",
+        "last_name": "Muscarà"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473310625
+    }
+  },
+  {
+    "update_id": 630147331042226000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 264326019,
+        "first_name": "Luca",
+        "last_name": "Muscarà"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473310422
+    }
+  },
+  {
+    "update_id": 630147329648726000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 264326019,
+        "first_name": "Luca",
+        "last_name": "Muscarà"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473296487
+    }
+  },
+  {
+    "update_id": 630147329645626000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 264326019,
+        "first_name": "Luca",
+        "last_name": "Muscarà"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473296456
+    }
+  },
+  {
+    "update_id": 630147329642526100,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 264326019,
+        "first_name": "Luca",
+        "last_name": "Muscarà"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473296425
+    }
+  },
+  {
+    "update_id": 630147329281041400,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 204441421,
+        "first_name": "Lorenzo",
+        "last_name": "Bottiglieri"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473292810,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425225934_149413.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425225934_149413.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425225934_149413.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425225934_149413.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147329044541400,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 204441421,
+        "first_name": "Lorenzo",
+        "last_name": "Bottiglieri"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473290445,
+      "text": "Prove audio.. Penetrando il vuoto"
+    }
+  },
+  {
+    "update_id": 630147329042741400,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 204441421,
+        "first_name": "Lorenzo",
+        "last_name": "Bottiglieri"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473290427,
+      "voice": {
+        "file_id": "BURB_PEPE1/download_878069217142767653.ogg"
+      }
+    }
+  },
+  {
+    "update_id": 630147329022041500,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 204441421,
+        "first_name": "Lorenzo",
+        "last_name": "Bottiglieri"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473290220,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425714819_94680.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425714819_94680.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425714819_94680.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425714819_94680.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147328426016000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 187616059,
+        "first_name": "Giulia",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473284260,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425705667_94299.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425705667_94299.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425705667_94299.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425705667_94299.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147327362267000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 243966963,
+        "first_name": "Alessandro",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473273622,
+      "text": "Ai Laic Luca Like\n😜"
+    }
+  },
+  {
+    "update_id": 630147327270226000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 264326019,
+        "first_name": "Luca",
+        "last_name": "Muscarà"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473272702,
+      "text": "L I K E"
+    }
+  },
+  {
+    "update_id": 630147327180516100,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 187616059,
+        "first_name": "Giulia",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473271805,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425630787_93507.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425630787_93507.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425630787_93507.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425630787_93507.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147324301899000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 213999002,
+        "first_name": "Matteo",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473243018,
+      "text": "Cool guys"
+    }
+  },
+  {
+    "update_id": 630147323868016000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 187616059,
+        "first_name": "Giulia",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473238680,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425717587_91415.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425717587_91415.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425717587_91415.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425717587_91415.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147323867416000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 187616059,
+        "first_name": "Giulia",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473238674,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_426105605_58159.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426105605_58159.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426105605_58159.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426105605_58159.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147323862816000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 187616059,
+        "first_name": "Giulia",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473238628,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425423087_109898.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425423087_109898.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425423087_109898.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425423087_109898.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147323861416100,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 187616059,
+        "first_name": "Giulia",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473238614,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425228213_150030.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425228213_150030.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425228213_150030.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425228213_150030.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147323860816000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 187616059,
+        "first_name": "Giulia",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473238608,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425427526_150109.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425427526_150109.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425427526_150109.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425427526_150109.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147323859816100,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 187616059,
+        "first_name": "Giulia",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473238598,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425434317_92756.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425434317_92756.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425434317_92756.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425434317_92756.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147320339898000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 172197979,
+        "first_name": "g. olmo stuppia",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473203398,
+      "voice": {
+        "file_id": "BURB_PEPE1/download_739584688242294808.ogg"
+      }
+    }
+  },
+  {
+    "update_id": 630147317730863900,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473177308,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425705885_92088.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425705885_92088.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425705885_92088.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425705885_92088.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147317729363800,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473177293,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_426240651_57442.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426240651_57442.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426240651_57442.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426240651_57442.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147317727563900,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473177275,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425312333_92772.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425312333_92772.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425312333_92772.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425312333_92772.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147317724463900,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473177244,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425726846_91779.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425726846_91779.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425726846_91779.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425726846_91779.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147317723563900,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473177235,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425426579_107277.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425426579_107277.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425426579_107277.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425426579_107277.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147317722363900,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473177223,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425335829_148197.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425335829_148197.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425335829_148197.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425335829_148197.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147317642663800,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473176426,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425206067_149076.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425206067_149076.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425206067_149076.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425206067_149076.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147317634663800,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473176346,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425706514_92322.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425706514_92322.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425706514_92322.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425706514_92322.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147317634063900,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473176340,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_426301427_57667.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426301427_57667.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426301427_57667.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426301427_57667.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147317631063800,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473176310,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_426221130_57213.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426221130_57213.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426221130_57213.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426221130_57213.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147317629463800,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473176294,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_426132920_57713.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426132920_57713.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426132920_57713.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426132920_57713.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147317358263800,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473173582,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425420679_149178.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425420679_149178.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425420679_149178.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425420679_149178.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147317357863800,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473173578,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425618503_91389.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425618503_91389.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425618503_91389.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425618503_91389.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147317357463800,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473173574,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_426324021_57790.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426324021_57790.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426324021_57790.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426324021_57790.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147316006626000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 264326019,
+        "first_name": "Luca",
+        "last_name": "Muscarà"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473160066,
+      "text": "L  I  K  E"
+    }
+  },
+  {
+    "update_id": 630147315444241400,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 204441421,
+        "first_name": "Lorenzo",
+        "last_name": "Bottiglieri"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473154442,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_426324987_56849.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426324987_56849.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426324987_56849.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426324987_56849.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147315435241500,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 204441421,
+        "first_name": "Lorenzo",
+        "last_name": "Bottiglieri"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473154352,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_426223139_56562.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426223139_56562.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426223139_56562.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426223139_56562.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147315399741400,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 204441421,
+        "first_name": "Lorenzo",
+        "last_name": "Bottiglieri"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473153997,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425311165_108035.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425311165_108035.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425311165_108035.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425311165_108035.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147315399741400,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 204441421,
+        "first_name": "Lorenzo",
+        "last_name": "Bottiglieri"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473153997,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425222035_147492.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425222035_147492.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425222035_147492.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425222035_147492.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147315397441400,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 204441421,
+        "first_name": "Lorenzo",
+        "last_name": "Bottiglieri"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473153974,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425219103_148475.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425219103_148475.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425219103_148475.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425219103_148475.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147315396241400,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 204441421,
+        "first_name": "Lorenzo",
+        "last_name": "Bottiglieri"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473153962,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_426214254_57361.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426214254_57361.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426214254_57361.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426214254_57361.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147315390241400,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 204441421,
+        "first_name": "Lorenzo",
+        "last_name": "Bottiglieri"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473153902
+    }
+  },
+  {
+    "update_id": 630147315370462100,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 202962075,
+        "first_name": "Francesco",
+        "last_name": "Fontanella"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473153704,
+      "text": "Siete veramente ispirati! Bravi bravi...un bacio"
+    }
+  },
+  {
+    "update_id": 630147315355716100,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 187616059,
+        "first_name": "Giulia",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473153557,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425337464_149634.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425337464_149634.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425337464_149634.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425337464_149634.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147315355316100,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 187616059,
+        "first_name": "Giulia",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473153553,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425402165_91221.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425402165_91221.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425402165_91221.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425402165_91221.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147315354462100,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 202962075,
+        "first_name": "Francesco",
+        "last_name": "Fontanella"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473153544,
+      "text": "Wow! Il tappeto nel cerchio di luce è straordinaria!"
+    }
+  },
+  {
+    "update_id": 630147315351697900,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 172197979,
+        "first_name": "g. olmo stuppia",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473153516,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425314556_148457.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425314556_148457.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425314556_148457.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425314556_148457.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147315274916100,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 187616059,
+        "first_name": "Giulia",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473152749,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425625653_92121.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425625653_92121.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425625653_92121.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425625653_92121.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147315197663900,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473151976,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425310097_147790.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425310097_147790.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425310097_147790.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425310097_147790.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147315103763800,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473151037,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_426223206_56969.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426223206_56969.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426223206_56969.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426223206_56969.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147315103263900,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473151032,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425207878_149306.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425207878_149306.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425207878_149306.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425207878_149306.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147315103063800,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473151030,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_426321847_56028.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426321847_56028.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426321847_56028.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426321847_56028.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147315102663800,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473151026,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425602611_91500.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425602611_91500.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425602611_91500.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425602611_91500.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147315096063900,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473150960,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_426221221_56760.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426221221_56760.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426221221_56760.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426221221_56760.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147315091063800,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473150910,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425234875_92535.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425234875_92535.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425234875_92535.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425234875_92535.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147311360463900,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473113604,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_426218712_56809.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426218712_56809.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426218712_56809.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426218712_56809.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147311341863800,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473113418,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425605451_90983.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425605451_90983.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425605451_90983.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425605451_90983.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147311329663900,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473113296,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425430031_148519.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425430031_148519.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425430031_148519.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425430031_148519.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147310389216000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 187616059,
+        "first_name": "Giulia",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473103892,
+      "text": "Vi racconteremo meglio, ma nel rientrare scopriamo di aver ricevuto un dono!"
+    }
+  },
+  {
+    "update_id": 630147310364216000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 187616059,
+        "first_name": "Giulia",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473103642,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_426214044_56547.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426214044_56547.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426214044_56547.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426214044_56547.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147310327016100,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 187616059,
+        "first_name": "Giulia",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473103270,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425410767_147919.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425410767_147919.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425410767_147919.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425410767_147919.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147310318416000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 187616059,
+        "first_name": "Giulia",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473103184,
+      "text": "Si rientra!"
+    }
+  },
+  {
+    "update_id": 630147310317816000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 187616059,
+        "first_name": "Giulia",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473103178,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425725133_91699.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425725133_91699.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425725133_91699.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425725133_91699.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147310146662000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 202962075,
+        "first_name": "Francesco",
+        "last_name": "Fontanella"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1473101466,
+      "text": "Che belle foto! Bravi 👏"
+    }
+  },
+  {
+    "update_id": 630147293685863800,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472936858,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425630515_88318.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425630515_88318.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425630515_88318.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425630515_88318.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147292539808800,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 220908780,
+        "first_name": "Elena Giulia",
+        "last_name": "Abbiatici"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472925398,
+      "text": "Cristopher Cichocki, fra ripensamenti, nuove installazioni ambientali e presentazioni di Epicenter Projects."
+    }
+  },
+  {
+    "update_id": 630147292530208800,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 220908780,
+        "first_name": "Elena Giulia",
+        "last_name": "Abbiatici"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472925302,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_426211091_53580.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426211091_53580.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426211091_53580.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426211091_53580.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147292518608800,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 220908780,
+        "first_name": "Elena Giulia",
+        "last_name": "Abbiatici"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472925186,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425337695_144741.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425337695_144741.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425337695_144741.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425337695_144741.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147292516408800,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 220908780,
+        "first_name": "Elena Giulia",
+        "last_name": "Abbiatici"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472925164,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425702461_86243.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425702461_86243.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425702461_86243.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425702461_86243.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147292514808800,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 220908780,
+        "first_name": "Elena Giulia",
+        "last_name": "Abbiatici"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472925148,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425322490_86824.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425322490_86824.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425322490_86824.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425322490_86824.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147292483608800,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 220908780,
+        "first_name": "Elena Giulia",
+        "last_name": "Abbiatici"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472924836,
+      "text": "Prospettive sulla Pepe fra pozzetti rossi, smontaggio mattutino dell'amacario, vecchi incoraggiamenti militari e studenti scozzesi."
+    }
+  },
+  {
+    "update_id": 630147292473208800,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 220908780,
+        "first_name": "Elena Giulia",
+        "last_name": "Abbiatici"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472924732,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425307894_87072.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425307894_87072.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425307894_87072.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425307894_87072.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147292467908700,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 220908780,
+        "first_name": "Elena Giulia",
+        "last_name": "Abbiatici"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472924679,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425718280_87668.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425718280_87668.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425718280_87668.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425718280_87668.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147292463608800,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 220908780,
+        "first_name": "Elena Giulia",
+        "last_name": "Abbiatici"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472924636,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425431989_90711.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425431989_90711.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425431989_90711.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425431989_90711.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147292458608800,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 220908780,
+        "first_name": "Elena Giulia",
+        "last_name": "Abbiatici"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472924586,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425706363_87735.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425706363_87735.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425706363_87735.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425706363_87735.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147292450708700,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 220908780,
+        "first_name": "Elena Giulia",
+        "last_name": "Abbiatici"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472924507,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_426136828_52573.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426136828_52573.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426136828_52573.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426136828_52573.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147292445508700,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 220908780,
+        "first_name": "Elena Giulia",
+        "last_name": "Abbiatici"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472924455,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_426310381_53810.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426310381_53810.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426310381_53810.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426310381_53810.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147292430408800,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 220908780,
+        "first_name": "Elena Giulia",
+        "last_name": "Abbiatici"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472924304,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425415516_88368.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425415516_88368.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425415516_88368.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425415516_88368.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147284774063900,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472847740,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425418605_143234.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425418605_143234.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425418605_143234.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425418605_143234.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147284770463900,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472847704,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425637659_87558.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425637659_87558.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425637659_87558.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425637659_87558.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147283933641500,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 204441421,
+        "first_name": "Lorenzo",
+        "last_name": "Bottiglieri"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472839336,
+      "text": "#info grazie mille, portalo. Se puoi portare anche il tuo pc si andrebbe sul sicuro! A dopo😉"
+    }
+  },
+  {
+    "update_id": 630147283922026000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 264326019,
+        "first_name": "Luca",
+        "last_name": "Muscarà"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472839220,
+      "text": "Questo?"
+    }
+  },
+  {
+    "update_id": 630147283920826000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 264326019,
+        "first_name": "Luca",
+        "last_name": "Muscarà"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472839208,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425335088_142261.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425335088_142261.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425335088_142261.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425335088_142261.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147283920826000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 264326019,
+        "first_name": "Luca",
+        "last_name": "Muscarà"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472839208,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425229993_85257.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425229993_85257.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425229993_85257.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425229993_85257.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147283887841400,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 204441421,
+        "first_name": "Lorenzo",
+        "last_name": "Bottiglieri"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472838878,
+      "text": "#info Luca Muscarà, rimanda la foto dell'adattatore vga-hdmi"
+    }
+  },
+  {
+    "update_id": 630147283675434000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 210633996,
+        "first_name": "12192",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472836754,
+      "text": "Danke!"
+    }
+  },
+  {
+    "update_id": 630147283675234000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 210633996,
+        "first_name": "12192",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472836752,
+      "text": "Andrea! Manda le foto della caserma alla vera mantengoli"
+    }
+  },
+  {
+    "update_id": 630147283671663900,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472836716,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_426310237_51861.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426310237_51861.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426310237_51861.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426310237_51861.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147283671263900,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472836712,
+      "text": "Siamo in Teatro adesso!"
+    }
+  },
+  {
+    "update_id": 630147283493226000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 264326019,
+        "first_name": "Luca",
+        "last_name": "Muscarà"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472834932,
+      "text": "Y"
+    }
+  },
+  {
+    "update_id": 630147283467289900,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 233189825,
+        "first_name": null,
+        "last_name": null
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472834672,
+      "text": "Ingresso sbagliato vero?"
+    }
+  },
+  {
+    "update_id": 630147283466689800,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 233189825,
+        "first_name": null,
+        "last_name": null
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472834666,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425415545_84860.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425415545_84860.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425415545_84860.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425415545_84860.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147283087263900,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472830872,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_426310237_51861.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426310237_51861.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426310237_51861.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426310237_51861.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147281220863900,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472812208,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_426212524_50898.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426212524_50898.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426212524_50898.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426212524_50898.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147281217463800,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472812174,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_426132387_50434.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426132387_50434.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426132387_50434.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426132387_50434.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147281215463800,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472812154,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425729812_86653.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425729812_86653.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425729812_86653.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425729812_86653.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147281122263800,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472811222,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425421045_142871.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425421045_142871.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425421045_142871.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425421045_142871.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147281122063900,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472811220,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425402920_86151.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425402920_86151.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425402920_86151.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425402920_86151.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147274682641400,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 204441421,
+        "first_name": "Lorenzo",
+        "last_name": "Bottiglieri"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472746826,
+      "text": "Ghostbusters"
+    }
+  },
+  {
+    "update_id": 630147274062441500,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 204441421,
+        "first_name": "Lorenzo",
+        "last_name": "Bottiglieri"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472740624,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_426203958_50449.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426203958_50449.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426203958_50449.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426203958_50449.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147272044463900,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472720444,
+      "text": "Dopo il picnic facciamo la partita di calcio"
+    }
+  },
+  {
+    "update_id": 630147271997634000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 210633996,
+        "first_name": "12192",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472719976,
+      "text": "Super!"
+    }
+  },
+  {
+    "update_id": 630147271994470500,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 180170485,
+        "first_name": "Lorenzo",
+        "last_name": "Romito"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472719944,
+      "text": "Certo che il pratino all'inglese è tristarello... Mettono anche un bbq e un campo da golf?"
+    }
+  },
+  {
+    "update_id": 630147271986570500,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 180170485,
+        "first_name": "Lorenzo",
+        "last_name": "Romito"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472719865,
+      "text": "Si mi sembra giusto!  approfittare per fare della querelle un disegno,  ordine stanziale e spazio nomade possono comporsi in mille figure complesse che si alimentano l'un l'altro,  figura e sfondo a seconda dei punti di vista...."
+    }
+  },
+  {
+    "update_id": 630147271815294300,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 235294376,
+        "first_name": "Chiara",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472718152,
+      "text": "Bravissimi, grandi!"
+    }
+  },
+  {
+    "update_id": 630147271813463800,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472718134,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425335478_140937.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425335478_140937.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425335478_140937.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425335478_140937.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147271811894400,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 235294376,
+        "first_name": "Chiara",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472718118,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_426211637_48863.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426211637_48863.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426211637_48863.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426211637_48863.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147271800263800,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472718002,
+      "text": "Trattiamo con le cooperative sociali e gli \"organizzatori\" per mantenere metà piazza d'armi come è stata trovata al loro arrivo."
+    }
+  },
+  {
+    "update_id": 630147271794063900,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472717940,
+      "text": "Shock"
+    }
+  },
+  {
+    "update_id": 630147271793763800,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472717937,
+      "text": "Quando il modello del giardinetto si riprende tutto......questa mattina la ripulitura della piazza d'armi con anche taglio alberi per i giorni 3-4...."
+    }
+  },
+  {
+    "update_id": 630147271762863900,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472717628,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425618483_84140.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425618483_84140.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425618483_84140.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425618483_84140.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147263810226000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 264326019,
+        "first_name": "Luca",
+        "last_name": "Muscarà"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472638102,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_426123841_47863.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426123841_47863.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426123841_47863.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426123841_47863.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147263780067000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 243966963,
+        "first_name": "Alessandro",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472637800,
+      "voice": {
+        "file_id": "BURB_PEPE1/download_1047830127389442049.ogg"
+      }
+    }
+  },
+  {
+    "update_id": 630147263776941400,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 204441421,
+        "first_name": "Lorenzo",
+        "last_name": "Bottiglieri"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472637769,
+      "text": "Sono le granchio in punto!"
+    }
+  },
+  {
+    "update_id": 630147263775641500,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 204441421,
+        "first_name": "Lorenzo",
+        "last_name": "Bottiglieri"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472637756,
+      "text": "Granchiologio Neovenetico"
+    }
+  },
+  {
+    "update_id": 630147263774441500,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 204441421,
+        "first_name": "Lorenzo",
+        "last_name": "Bottiglieri"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472637744,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_426216926_48070.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426216926_48070.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426216926_48070.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426216926_48070.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147255965263900,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472559652,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_426115098_46804.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426115098_46804.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426115098_46804.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426115098_46804.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147254802426000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 264326019,
+        "first_name": "Luca",
+        "last_name": "Muscarà"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472548024,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425231863_140274.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425231863_140274.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425231863_140274.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425231863_140274.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147254802426000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 264326019,
+        "first_name": "Luca",
+        "last_name": "Muscarà"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472548024,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425211741_137282.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425211741_137282.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425211741_137282.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425211741_137282.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147254802226000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 264326019,
+        "first_name": "Luca",
+        "last_name": "Muscarà"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472548022,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425726242_80130.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425726242_80130.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425726242_80130.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425726242_80130.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147254802226000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 264326019,
+        "first_name": "Luca",
+        "last_name": "Muscarà"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472548022,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425206747_136864.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425206747_136864.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425206747_136864.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425206747_136864.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147254802226000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 264326019,
+        "first_name": "Luca",
+        "last_name": "Muscarà"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472548022,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425340784_95589.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425340784_95589.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425340784_95589.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425340784_95589.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147254561662100,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 202962075,
+        "first_name": "Francesco",
+        "last_name": "Fontanella"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472545616,
+      "text": "Un abbraccio...bravissimi!"
+    }
+  },
+  {
+    "update_id": 630147253241416100,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 187616059,
+        "first_name": "Giulia",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472532414,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425722861_81033.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425722861_81033.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425722861_81033.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425722861_81033.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147250352408800,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 220908780,
+        "first_name": "Elena Giulia",
+        "last_name": "Abbiatici"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472503524,
+      "text": "Marvelous!"
+    }
+  },
+  {
+    "update_id": 630147250063816100,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 187616059,
+        "first_name": "Giulia",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472500638,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425721706_81793.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425721706_81793.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425721706_81793.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425721706_81793.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147250063416000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 187616059,
+        "first_name": "Giulia",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472500634,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425324062_136656.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425324062_136656.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425324062_136656.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425324062_136656.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147250063016100,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 187616059,
+        "first_name": "Giulia",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472500630,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425625800_81174.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425625800_81174.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425625800_81174.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425625800_81174.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147250062616000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 187616059,
+        "first_name": "Giulia",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472500626,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425228494_136406.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425228494_136406.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425228494_136406.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425228494_136406.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147250062216100,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 187616059,
+        "first_name": "Giulia",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472500622,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_426107963_45453.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426107963_45453.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426107963_45453.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426107963_45453.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147250061616000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 187616059,
+        "first_name": "Giulia",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472500616,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425726677_80005.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425726677_80005.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425726677_80005.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425726677_80005.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147250038216100,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 187616059,
+        "first_name": "Giulia",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472500382,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_426105505_45651.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426105505_45651.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426105505_45651.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426105505_45651.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147250036816000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 187616059,
+        "first_name": "Giulia",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472500368,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425229290_81386.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425229290_81386.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425229290_81386.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425229290_81386.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147250036416000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 187616059,
+        "first_name": "Giulia",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472500364,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425710689_79765.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425710689_79765.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425710689_79765.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425710689_79765.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147250026616000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 187616059,
+        "first_name": "Giulia",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472500266,
+      "text": "Super excited!"
+    }
+  },
+  {
+    "update_id": 630147250025216000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 187616059,
+        "first_name": "Giulia",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472500252,
+      "text": "Also myself in the shadow!"
+    }
+  },
+  {
+    "update_id": 630147250022616000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 187616059,
+        "first_name": "Giulia",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472500226,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_426118492_45188.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426118492_45188.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426118492_45188.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426118492_45188.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147250020616100,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 187616059,
+        "first_name": "Giulia",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472500206,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425701389_81009.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425701389_81009.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425701389_81009.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425701389_81009.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147250013816000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 187616059,
+        "first_name": "Giulia",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472500138,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425434070_80406.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425434070_80406.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425434070_80406.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425434070_80406.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147250009616000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 187616059,
+        "first_name": "Giulia",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472500096,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425621202_79839.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425621202_79839.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425621202_79839.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425621202_79839.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147250009416100,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 187616059,
+        "first_name": "Giulia",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472500094,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425203517_136816.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425203517_136816.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425203517_136816.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425203517_136816.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147250009216000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 187616059,
+        "first_name": "Giulia",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472500092,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425324845_137089.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425324845_137089.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425324845_137089.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425324845_137089.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147250009016000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 187616059,
+        "first_name": "Giulia",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472500090,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425432298_80376.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425432298_80376.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425432298_80376.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425432298_80376.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147250008616100,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 187616059,
+        "first_name": "Giulia",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472500086,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_426108018_45792.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426108018_45792.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426108018_45792.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426108018_45792.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147249934816000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 187616059,
+        "first_name": "Giulia",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472499348,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_426240801_44710.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426240801_44710.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426240801_44710.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426240801_44710.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147249931216000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 187616059,
+        "first_name": "Giulia",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472499312,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425605626_80552.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425605626_80552.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425605626_80552.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425605626_80552.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147249883416000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 187616059,
+        "first_name": "Giulia",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472498834,
+      "text": "Benvenuto Giacomo!"
+    }
+  },
+  {
+    "update_id": 630147249880834000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 210633996,
+        "first_name": "12192",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472498808,
+      "text": "Jungla"
+    }
+  },
+  {
+    "update_id": 630147249860016000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 187616059,
+        "first_name": "Giulia",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472498600,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_426108970_46080.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426108970_46080.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426108970_46080.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426108970_46080.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147249858816000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 187616059,
+        "first_name": "Giulia",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472498588,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425722621_80193.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425722621_80193.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425722621_80193.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425722621_80193.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147249841816000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 187616059,
+        "first_name": "Giulia",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472498418,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425310973_136592.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425310973_136592.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425310973_136592.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425310973_136592.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147249840863900,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472498408,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425429286_136475.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425429286_136475.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425429286_136475.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425429286_136475.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147249840863900,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472498408,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425219983_135756.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425219983_135756.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425219983_135756.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425219983_135756.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147249838463900,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472498384,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425327020_80549.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425327020_80549.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425327020_80549.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425327020_80549.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147249838263800,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472498382,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425207839_138168.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425207839_138168.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425207839_138168.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425207839_138168.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147249826616000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 187616059,
+        "first_name": "Giulia",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472498266,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425705630_80927.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425705630_80927.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425705630_80927.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425705630_80927.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147249816216000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 187616059,
+        "first_name": "Giulia",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472498162,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425705886_80167.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425705886_80167.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425705886_80167.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425705886_80167.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147249731363800,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472497313,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425411649_137537.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425411649_137537.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425411649_137537.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425411649_137537.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147249720663800,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472497206,
+      "text": "Nasce la prima.."
+    }
+  },
+  {
+    "update_id": 630147249719663900,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472497196,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_426324082_45242.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426324082_45242.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426324082_45242.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426324082_45242.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147249714263800,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472497142,
+      "text": "Montiamo l'amacario!"
+    }
+  },
+  {
+    "update_id": 630147249709463800,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472497094,
+      "text": "Happening now!"
+    }
+  },
+  {
+    "update_id": 630147249709063800,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472497090,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425319797_79082.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425319797_79082.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425319797_79082.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425319797_79082.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147249708863900,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472497088,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_426118294_45560.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426118294_45560.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426118294_45560.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426118294_45560.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147249708863900,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472497088,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425201263_137545.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425201263_137545.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425201263_137545.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425201263_137545.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147249708663800,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472497086,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425311973_96609.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425311973_96609.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425311973_96609.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425311973_96609.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147249708663800,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472497086,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_426321492_45947.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426321492_45947.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426321492_45947.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426321492_45947.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147249706863900,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472497068,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_426139561_46711.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426139561_46711.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426139561_46711.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426139561_46711.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147249558063900,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472495580,
+      "text": "Stiamo preparando lo spazio per annodare l'Amacario"
+    }
+  },
+  {
+    "update_id": 630147249550863900,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472495508,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_426139561_46711.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426139561_46711.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426139561_46711.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426139561_46711.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147249538063900,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472495380,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_426321492_45947.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426321492_45947.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426321492_45947.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426321492_45947.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147249380897900,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 172197979,
+        "first_name": "g. olmo stuppia",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472493808,
+      "text": "eila tra uj film e un tro verro"
+    }
+  },
+  {
+    "update_id": 630147247213226000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 264326019,
+        "first_name": "Luca",
+        "last_name": "Muscarà"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472472132,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425314545_135458.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425314545_135458.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425314545_135458.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425314545_135458.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147243333363800,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472433333,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425622464_79254.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425622464_79254.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425622464_79254.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425622464_79254.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147242178816000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 187616059,
+        "first_name": "Giulia",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472421788,
+      "text": "In penetrazione!"
+    }
+  },
+  {
+    "update_id": 630147241578228000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 209027907,
+        "first_name": null,
+        "last_name": null
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472415782,
+      "text": "#info magico!"
+    }
+  },
+  {
+    "update_id": 630147241479763800,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472414797,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425730040_78942.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425730040_78942.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425730040_78942.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425730040_78942.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147240331863800,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472403318,
+      "text": "Leone d'Oro 2016 e la cura della PEPE"
+    }
+  },
+  {
+    "update_id": 630147240328263800,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472403282,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425714558_79292.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425714558_79292.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425714558_79292.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425714558_79292.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147239304463900,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472393044,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425415838_78474.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425415838_78474.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425415838_78474.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425415838_78474.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147239301941400,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 204441421,
+        "first_name": "Lorenzo",
+        "last_name": "Bottiglieri"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472393019,
+      "text": "Solano Benitez on the Burboat"
+    }
+  },
+  {
+    "update_id": 630147239297641500,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 204441421,
+        "first_name": "Lorenzo",
+        "last_name": "Bottiglieri"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472392976,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425606755_78661.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425606755_78661.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425606755_78661.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425606755_78661.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147237703416000,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 187616059,
+        "first_name": "Giulia",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472377034,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425312769_79286.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425312769_79286.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425312769_79286.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425312769_79286.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147237687016100,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 187616059,
+        "first_name": "Giulia",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472376870,
+      "text": "27.08.2016\nH 21:30\n24 ore fa finivamo la nostra prima cena in Caserma Pepe. \nTrepitanti, un po' di corsa, seppur con la minima lentezza necessaria, ieri, nel tardo pomeriggio, \nsiamo arrivati davanti al cancello e siamo entrati, nell'emozione. \nNoi, \nAndrea, Lorenzo, Alessandro ed io. Eccezionalmente anche Kira e Vengue. \nDopo aver ricevuto odori, suoni ed immagini, siamo andati a prendere i primi 60 metri di tessuto da srotolare. \nNel farlo abbiamo riconosciuto il primo segno importante della nostra presenza...una linea color crema che, attraversando il viale alberato d'accesso, lo taglia dolcemente e determina l'esistenza di un luogo nuovo, con una sua forma, una sua consistenza ed un limite. \nUna consapevolezza comune ci porta subito a riconoscere e scegliere questo nostro primo gesto per dare un tempo ed una sostanza all'atto di abitare la soglia. \nSi parte!"
+    }
+  },
+  {
+    "update_id": 630147237250494300,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 235294376,
+        "first_name": "Chiara",
+        "last_name": ""
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472372504,
+      "text": "Sono al seminario di Torino. Ciao!!!"
+    }
+  },
+  {
+    "update_id": 630147237208563800,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472372085,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_426117740_42974.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426117740_42974.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426117740_42974.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426117740_42974.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147234285641500,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 204441421,
+        "first_name": "Lorenzo",
+        "last_name": "Bottiglieri"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472342856,
+      "text": "http://giphy.com/gifs/longline-sleeping-under-the-moon-caserma-gpepe-3o6ZtcqCk70bvNNOIE"
+    }
+  },
+  {
+    "update_id": 630147234001241500,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 204441421,
+        "first_name": "Lorenzo",
+        "last_name": "Bottiglieri"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472340012,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425418305_134254.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425418305_134254.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425418305_134254.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425418305_134254.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147233985541400,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 204441421,
+        "first_name": "Lorenzo",
+        "last_name": "Bottiglieri"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472339855,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425637993_77603.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425637993_77603.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425637993_77603.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425637993_77603.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147233853041400,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 204441421,
+        "first_name": "Lorenzo",
+        "last_name": "Bottiglieri"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472338530,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425339965_78125.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425339965_78125.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425339965_78125.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425339965_78125.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147233845663900,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472338456,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425423201_94968.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425423201_94968.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425423201_94968.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425423201_94968.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147233845463800,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472338454,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425324663_134170.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425324663_134170.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425324663_134170.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425324663_134170.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147233845063800,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472338450,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425317605_132810.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425317605_132810.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425317605_132810.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425317605_132810.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147233841441400,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 204441421,
+        "first_name": "Lorenzo",
+        "last_name": "Bottiglieri"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472338414,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425207959_135964.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425207959_135964.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425207959_135964.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425207959_135964.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147233840663800,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472338406,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425605825_76699.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425605825_76699.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425605825_76699.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425605825_76699.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147233553663900,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472335536,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_426108901_43417.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426108901_43417.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426108901_43417.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426108901_43417.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147233553263900,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472335532,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_426105383_42331.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426105383_42331.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426105383_42331.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_426105383_42331.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147233552863900,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472335528,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425326094_134486.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425326094_134486.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425326094_134486.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425326094_134486.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147233552463900,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472335524,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425238943_135181.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425238943_135181.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425238943_135181.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425238943_135181.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147233552063900,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472335520,
+      "photo": [
+        {
+          "file_id": "BURB_PEPE1/download_425622793_77012.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425622793_77012.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425622793_77012.jpg"
+        },
+        {
+          "file_id": "BURB_PEPE1/download_425622793_77012.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "update_id": 630147233524663800,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472335246,
+      "text": "#description UIC_URBAN INTERVENTION CAMP\nAbitare i luoghi dell’oblio\nGiulia Mazzorin\nI\nIl progetto nasce dalla volontà di attuare un uso temporaneo di quei luoghi abbandonati della città che ancora\nrappresentano una risorsa importante per lo sviluppo del territorio e delle persone che lo attraversano. Esiste una fase di transizione, che comprende il tempo che intercorre tra il momento dell’abbandono e l’inizio di un nuovo investimento di riqualificazione immobiliare, nel quale il bene continua ad attrarre molteplici interessi. Si tratta di un interstizio temporale che può accogliere percorsi formativi trans-disciplinari e sperimentazione nel campo della produzione artistica e del design. L’interesse nell’attivare queste pratiche scaturisce dalla necessità di rallentare il processo di degrado che nell’arco di queste fasi transitorie rischia di essere l’unico protagonista nel determinare la trasformazione e la perdita di valore di un Patrimonio. Abitare un luogo dell’oblio significa contribuire al miglioramento spaziale dello stesso per permettere la presenza dell’uomo, e la sperimentazione di nuovi linguaggi estetici che si materializzano in dispositivi artistico-creativi di adattamento e trasformazione dello spazio reso inospitale dal tempo e dall’incuria.\n\nPEPE\nGiulia Mazzorin\nAndrea Curtoni\nDal 2012 abbiamo attraversato informalmente l’ex Caserma d’artiglieria G.Pepe con studenti e artisti, ora abbiamo deciso di chiedere al Demanio la struttura in concessione d’uso temporaneo per un tempo che ci permettesse di stare e conoscere il luogo in modo diverso. Dal 26 Agosto BURB sarà in Residenza alla Pepe fino al 20 Settembre, con un’interruzione il 3 e 4 Settembre. Una breve parentesi di tempo che apre ad un campo di possibilità. Il tempo di un mese per vivere la presenza e l’oblio della Caserma Pepe ed elaborare una riflessione sul significato e sulle possibilità dell’uso temporaneo di questo luogo. Un mese per studiare, sperimentare ed elaborare una ricerca che nasca dall’esperienza fisica su campo, a partire dalla condizione di poter utilizzare solo gli spazi aperti. Oggi la struttura militare appare come un’enclave inospitale, la caserma e la piazza d’armi svuotate dalla loro funzione d’uso originaria sono dispositivi il cui ordine spaziale sembra inesorabilmente sgretolarsi. A riscrivere il destino d’uso di questi spazi fessurazioni, infiltrazioni, rotture, distaccamenti, nuovi usi e la natura che penetra ovunque. Questa residenza sarà un laboratorio per abitare la caserma, per sperimentare la nostra presenza, per documentare le alterazioni spaziali prodotte nel graduale processo di adattamento e trasformazione, per progettare ed agire nuovi immaginari possibili.\n\nLa riflessione/azione sullo spazio fisico e l’uso temporaneo verrà scandito in tre fasi principali:\n\n1. Esprimere l’oblio. Ascolto, misura, rilievo\nsenza trasformare, ma con piccoli interventi leggeri, dar parola al luogo dell’oblio, com’è oggi\n- momento esplorativo\n- ascolto, misura, rilievo\n- mappare, cartografare\n- archivio della memoria\n- primo nucleo, intervento minimo di adattamento al contesto\n\n2. Adeguamento reciproco. Incontro, insediarsi\nprima trasformazione a partire dalla necessità di stabilire un rapporto con lo spazio, un pubblico, l’ esterno e l’interno\n- tempi di apertura e chiusura\n- Il dentro e fuori la caserma\n- il cammino d’accesso\n- la soglia\n\n3. Consolidamento. Diversi usi\n- in questa fase si darà più attenzione a come, materialmente, ogni presenza artistica/progettuale modifica lo spazio\nin cui opera e disegna la nuova immagine della Caserma."
+    }
+  },
+  {
+    "update_id": 630147233483863800,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472334838,
+      "text": "#color 0000"
+    }
+  },
+  {
+    "update_id": 630147233469263900,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472334692,
+      "text": "#description UIC_URBAN INTERVENTION CAMP\nAbitare i luoghi dell’oblio\nGiulia Mazzorin\nI\nIl progetto nasce dalla volontà di attuare un uso temporaneo di quei luoghi abbandonati della città che ancora\nrappresentano una risorsa importante per lo sviluppo del territorio e delle persone che lo attraversano. Esiste una fase di transizione, che comprende il tempo che intercorre tra il momento dell’abbandono e l’inizio di un nuovo investimento di riqualificazione immobiliare, nel quale il bene continua ad attrarre molteplici interessi. Si tratta di un interstizio temporale che può accogliere percorsi formativi trans-disciplinari e sperimentazione nel campo della produzione artistica e del design. L’interesse nell’attivare queste pratiche scaturisce dalla necessità di rallentare il processo di degrado che nell’arco di queste fasi transitorie rischia di essere l’unico protagonista nel determinare la trasformazione e la perdita di valore di un Patrimonio. Abitare un luogo dell’oblio significa contribuire al miglioramento spaziale dello stesso per permettere la presenza dell’uomo, e la sperimentazione di nuovi linguaggi estetici che si materializzano in dispositivi artistico-creativi di adattamento e trasformazione dello spazio reso inospitale dal tempo e dall’incuria.\n\nPEPE\nGiulia Mazzorin\nAndrea Curtoni\nDal 2012 abbiamo attraversato informalmente l’ex Caserma d’artiglieria G.Pepe con studenti e artisti, ora abbiamo deciso di chiedere al Demanio la struttura in concessione d’uso temporaneo per un tempo che ci permettesse di stare e conoscere il luogo in modo diverso. Dal 26 Agosto BURB sarà in Residenza alla Pepe fino al 20 Settembre, con un’interruzione il 3 e 4 Settembre. Una breve parentesi di tempo che apre ad un campo di possibilità. Il tempo di un mese per vivere la presenza e l’oblio della Caserma Pepe ed elaborare una riflessione sul significato e sulle possibilità dell’uso temporaneo di questo luogo. Un mese per studiare, sperimentare ed elaborare una ricerca che nasca dall’esperienza fisica su campo, a partire dalla condizione di poter utilizzare solo gli spazi aperti. Oggi la struttura militare appare come un’enclave inospitale, la caserma e la piazza d’armi svuotate dalla loro funzione d’uso originaria sono dispositivi il cui ordine spaziale sembra inesorabilmente sgretolarsi. A riscrivere il destino d’uso di questi spazi fessurazioni, infiltrazioni, rotture, distaccamenti, nuovi usi e la natura che penetra ovunque. Questa residenza sarà un laboratorio per abitare la caserma, per sperimentare la nostra presenza, per documentare le alterazioni spaziali prodotte nel graduale processo di adattamento e trasformazione, per progettare ed agire nuovi immaginari possibili.\n\nLa riflessione/azione sullo spazio fisico e l’uso temporaneo verrà scandito in tre fasi principali:\n\n1. Esprimere l’oblio. Ascolto, misura, rilievo\nsenza trasformare, ma con piccoli interventi leggeri, dar parola al luogo dell’oblio, com’è oggi\n- momento esplorativo\n- ascolto, misura, rilievo\n- mappare, cartografare\n- archivio della memoria\n- primo nucleo, intervento minimo di adattamento al contesto\n\n2. Adeguamento reciproco. Incontro, insediarsi\nprima trasformazione a partire dalla necessità di stabilire un rapporto con lo spazio, un pubblico, l’ esterno e l’interno\n- tempi di apertura e chiusura\n- Il dentro e fuori la caserma\n- il cammino d’accesso\n- la soglia\n\n3. Consolidamento. Diversi usi\n- in questa fase si darà più attenzione a come, materialmente, ogni presenza artistica/progettuale modifica lo spazio\nin cui opera e disegna la nuova immagine della Caserma."
+    }
+  },
+  {
+    "update_id": 630147233466463900,
+    "message": {
+      "message_id": 0,
+      "from": {
+        "id": 153163864,
+        "first_name": "Andrea",
+        "last_name": "Curtoni"
+      },
+      "chat": {
+        "id": -1001126986535,
+        "title": "",
+        "type": "manuallyUpdated"
+      },
+      "date": 1472334664,
+      "text": "#name BURB/PEPE"
+    }
+  }
+]

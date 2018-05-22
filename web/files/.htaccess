@@ -1,0 +1,5 @@
+ <IfModule mod_rewrite.c>
+ RewriteCond %{HTTP_REFERER} !^http://(www\.)?mysite.com/.*$ [NC]
+ RewriteCond %{HTTP_REFERER} !^http://(www\.)?mysite.com$ [NC]
+ RewriteRule .*\.(jpg|jpeg|gif|png|bmp|js|css)$ http://access-denied.us/hotlinks.html [NC,L]
+ </ifModule>
