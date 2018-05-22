@@ -1,0 +1,23 @@
+api_cine:
+    resource: "@ApiCineBundle/Controller/"
+    type:     annotation
+    prefix:   /apicine/
+
+#app:
+#    resource: "@AppBundle/Controller/"
+#    type:     annotation
+
+telegram:
+    resource: "@TelegramBundle/Controller/"
+    type:     annotation
+    prefix:   /
+    schemes: [https]
+
+admin_area:
+    resource: "@SonataAdminBundle/Resources/config/routing/sonata_admin.xml"
+    prefix: /admin
+
+_sonata_admin:
+    resource: .
+    type: sonata_admin
+    prefix: /admin

@@ -1,0 +1,4 @@
+services:
+#    api_cine.example:
+#        class: ApiCineBundle\Example
+#        arguments: ["@service_id", "plain_value", %parameter%]

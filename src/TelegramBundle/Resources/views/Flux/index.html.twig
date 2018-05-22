@@ -1,0 +1,22 @@
+{% extends '@Telegram/Flux/base.html.twig' %}
+
+{% block body %}
+    {#<canvas id="canvasHome" height="100" width="100"> </canvas>#}
+    <svg id="bigSvg"></svg>
+{% endblock %}
+
+{% block script %}
+    <script>
+        points = $.parseJSON('{{ points|json_encode|raw }}');
+        drawHomePoints(points,false);
+    </script>
+
+{% endblock %}
+
+{% block navStyle %}
+    style="border-bottom-color: White"
+{% endblock %}
+
+{% block footerStyle %}
+    style="border-top-color: White"
+{% endblock %}

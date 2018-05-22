@@ -1,0 +1,706 @@
+{% extends '@Telegram/Flux/base.html.twig' %}
+
+{% block buttonHidder %}
+    style="height: 0"
+{% endblock %}
+
+{% block title1 %}
+<h1 style="border-bottom-color: Gray" id="buttonPartners" class="topButton">
+    PARTNERS
+</h1>
+{% endblock %}
+
+{% block title2 %}
+<h1 style="border-bottom-color: Gray" id="buttonEvent" class="topButton">
+    ACTUAL
+</h1>
+{% endblock %}
+
+{% block body %}
+
+    <aside id="partners" class="side-left">
+        <img src="{{ asset('files/partners.jpg') }}"/>
+    </aside>
+    <aside id="wesh" class="side-righ topt">
+        <div class="what">
+            <h1>BIENNALE URBANA</h1>
+            <hr/>
+            <!--h4>
+                <span style="display: none;">{{ "now"|date("d / m / y") }}</span>
+                <span id="langSelect"><b>IT</b> | <b class="selectActive">EN</b></span>
+                <span style="display: none;">{{ "now"|date("H") }} h {{ "now"|date("i") }}</span>
+            </h4-->
+            <section>
+                <p>BURB explores the limits and inhabits the existing distances in-between Biennale (Arts), Venice (City) and the Lagoon (Territory)....BURBB is an emerging trans-local agency that clusters and weaves formal and informal realities, local and international institutions, cultural and social practitioners, visitors and inhabitants, in a common action for change... BUUURBUUUR is shaped by its own acts, BU abdicates both project and communication as constricting ongoing exploratory actions.... BUUURURUBBB blurs together its actions, its immediate and shared communication with the production of educational and transformative feedback....UBBUURURUBBB serves as common ground between artistic action, transdisciplinary education and urban transformation...BURRRBRBR experiments actions, practices, strategies and tools to steps outside the "Contemporary" dimensions of Art, Architecture and City....
+                    <br><br>
+                    <b>Founders</b><br>
+                    Lorenzo Romito, Giulia Mazzorin, Andrea Curtoni
+                    <br><br>
+                    <b>Contributors since 2014</b><br>
+                    Peter Lang, Giulia Fiocca, Christian Costa, Alessandro Conte, Peter Cosma, Lucilla Zanolari, Francesco Fontanella, Maria Kassola, Lorenzo Bottiglieri, Luca Muscarà, Luca Caldironi, Giacomo Cosua, Valentina Bonifacio, Marie Limone
+                    <br><br>
+                    <b>Intern</b><br>
+                    Michela Zugliano, Sara Podetti
+                    <br><br>
+                    <b>Artists and Guests</b><br>
+                    Francesco Careri, Pelin Tan, Suad Amiri, Lieven De Cauter, Anna Detheridge, Martin Josephy, Michael Obrist, Pedro Lasch, Cesare Pietroiusti, Francine K. Affourtit, Amparo Ferrari, Bogna Świątkowska, Mirko Donati, Serena Boccanegra, Sara Alberani, Elena Giulia Abbiatici, Caterina Pecchioli, Nicola Di Croce, Fabio Ciaravella, Mimì Coviello, Cristina Amenta, Luvier Casali, Elke Krasny, Leo Mayr, TPot
+                    <br><br>
+                    <b>Associated graphic design studio:</b><br>
+                    <a href="http://zerozoro.com/" target="_blank" style="color:White">ZEROZORO</a>
+
+                </p>
+                <!--<p>
+                    Benvenute/i, <br>
+                    BRRUUU esplora i limiti e abita le distanze tra la Biennale (le Arti),
+                    Venezia (la Città) e la Laguna (il Territorio).....UUURB è una istituzione
+                    trans-locale emergente (Agency) che raccoglie e tesse relazioni tra realtà
+                    formali e informali, istituzioni locali e internazionali, pratiche culturali
+                    e sociali, “foresti” ed abitanti, in una azione comune per il cambiamento....BUUURBR
+                    configurandosi nell’agire, rinuncia al progetto e alla comunicazione in quanto
+                    strumenti di costrizione dell’azione esplorativa intrapresa.....BUUUUUUURRBRBRB
+                    con-fonde in un unico processo la propria azione, la sua immediata e condivisa
+                    comunicazione e gli aspetti formativi e trasformativi che esse
+                    producono.....BUUURUURURB si pone come terreno comune fra azione artistica,
+                    formazione transdisciplinare e trasformazione urbana......BURURURU sperimenta
+                    azioni, pratiche, strategie e strumenti per fuoriuscire dalla dimensione
+                    “Contemporanea” dell’arte, dell’architettura e della città....</p>-->
+            </section>
+        </div>
+    </aside>
+
+    <aside id="fluxList" class="side-left">
+        {% set lastTime =  "now"|date('U') %}
+        {% for flux in oldfluxs|reverse(true) %}
+            {% for event in oldevents %}
+                {% if event.startDate|date('U') < lastTime and event.startDate|date('U') > flux.creaTionDate|date('U') %}
+                <article class="event-article">
+                    <a href="#event-{{ event.id }}" class="full-link event-link-left"></a>
+                    <aside>
+                        <h1>{{ event.startDate|date("d") }}<img src="{{ asset("src/arrow.svg") }}" onerror="this.onerror=null; this.src='arrow.png'">{{ event.endDate|date("d") }}</h1>
+                        <h1>{{ event.startDate|date("m") }}<img src="{{ asset("src/separator.svg") }}" onerror="this.onerror=null; this.src='separator.png'">{{ event.endDate|date("m") }}</h1>
+                    </aside>
+                    <h1>{{ event.name }}</h1>
+                </article>
+                {%  endif %}
+            {% endfor %}
+            <article id="link{{ flux.tid }}" class="flux-article">
+                <a class="link-full" href="{{ path("flux",{'tid' : flux.tid }) }}"></a>
+                <h1>{{ flux.name }}</h1>
+                <footer>
+                    <h5 style="color:{{ flux.color }}">●</h5>
+
+                    <h5>FROM <b>{{ flux.creationDate|date("d/m/y") }}</b> TO
+                        <b>{{ flux.lastDate|date("d/m/y") }}</b> </h5>
+                    <h5 style="margin-top:40px">{{ flux.location|upper }}</h5>
+                </footer>
+            </article>
+            {% set lastTime = flux.creationDate|date('U') %}
+        {% endfor %}
+        {% for event in oldevents %}
+            {% if event.startDate|date('U') < lastTime %}
+                <article class="event-article">
+                    <a href="#event-{{ event.id }}" class="full-link event-link-left"></a>
+                    <aside>
+                        <h1>{{ event.startDate|date("d") }}<img src="{{ asset("src/arrow.svg") }}" onerror="this.onerror=null; this.src='arrow.png'">{{ event.endDate|date("d") }}</h1>
+                        <h1>{{ event.startDate|date("m") }}<img src="{{ asset("src/separator.svg") }}" onerror="this.onerror=null; this.src='separator.png'">{{ event.endDate|date("m") }}</h1>
+                    </aside>
+                    <h1>{{ event.name }}</h1>
+                </article>
+            {%  endif %}
+        {% endfor %}
+    </aside>
+    <aside id="eventList" class=" class="side-right top">
+        {% set lastTime =  "now"|date('U') %}
+        {% for flux in actualfluxs|reverse(true) %}
+
+
+
+            {% for event in events %}
+                {# if event.startDate|date('U') < lastTime and event.startDate|date('U') > flux.creaTionDate|date('U') #}
+                    <article class="event-article">
+                        <a href="#event-{{ event.id }}" class="full-link event-link-left"></a>
+                        <aside>
+                            <h1>{{ event.startDate|date("d") }}<img src="{{ asset("src/arrow.svg") }}" onerror="this.onerror=null; this.src='arrow.png'">{{ event.endDate|date("d") }}</h1>
+                            <h1>{{ event.startDate|date("m") }}<img src="{{ asset("src/separator.svg") }}" onerror="this.onerror=null; this.src='separator.png'">{{ event.endDate|date("m") }}</h1>
+                        </aside>
+                        <h1>{{ event.name }}</h1>
+                    </article>
+                {#  endif #}
+            {% endfor %}
+            <article id="link{{ flux.tid }}" class="flux-article">
+                <a class="link-full" href="{{ path("flux",{'tid' : flux.tid }) }}"></a>
+                <h1>{{ flux.name }}</h1>
+                <footer>
+                    <h5 style="color:{{ flux.color }}">●</h5>
+
+                    <h5>FROM <b>{{ flux.creationDate|date("d/m/y") }}</b> TO
+                        <b>{{ flux.lastDate|date("d/m/y") }}</b> </h5>
+                    <h5 style="margin-top:40px">>{{ flux.location|upper }}</h5>
+                </footer>
+            </article>
+            {% set lastTime = flux.creationDate|date('U') %}
+        {% endfor %}
+        {% for event in events %}
+            {% if event.startDate|date('U') < lastTime %}
+                <article class="event-article">
+                    <a href="#event-{{ event.id }}" class="full-link event-link"></a>
+                    <aside>
+                        <h1>{{ event.startDate|date("d") }}<img src="{{ asset("src/arrow.svg") }}" onerror="this.onerror=null; this.src='arrow.png'">{{ event.endDate|date("d") }}</h1>
+                        <h1>{{ event.startDate|date("m") }}<img src="{{ asset("src/separator.svg") }}" onerror="this.onerror=null; this.src='separator.png'">{{ event.endDate|date("m") }}</h1>
+                    </aside>
+                    <h1>{{ event.name }}</h1>
+                </article>
+            {%  endif %}
+        {% endfor %}
+    </aside>
+
+
+    {% for event in events %}
+        <aside id="event-{{ event.id }}" class="event-what-left side-left">
+            <div class="what">
+                <h3>{{ event.startDate|date("d") }} | {{ event.startDate|date("m") }} : {{ event.startDate|date("H") }} →
+                    {% if event.startDate|date("d") != event.endDate|date("d") or event.startDate|date("m") != event.endDate|date("m") %}
+                        {{ event.endDate|date("d") }} | {{ event.endDate|date("m") }} :
+                    {% endif %}
+                    {{ event.endDate|date("H") }}</h3>
+                <h1>{{ event.name }}</h1>
+                {% if not event.partners is null %}
+                    <h2><b>PARTNERS:</b>
+                        <br>{{ event.partners }}</h2>
+                {% endif %}
+                <hr/>
+                <p>{{ event.description|raw|markdown }}</p>
+            </div>
+        </aside>
+     {% endfor %}
+    {% for event in oldevents %}
+        <aside id="event-{{ event.id }}" class="event-what-left">
+            <div class="what">
+                <h3>{{ event.startDate|date("d") }} | {{ event.startDate|date("m") }} →
+                    {{ event.endDate|date("d") }} | {{ event.endDate|date("m") }}</h3>
+                <h1>{{ event.name }}</h1>
+                {% if not event.partners is null %}
+                    <h2><b>PARTNERS:</b>
+                        <br>{{ event.partners }}</h2>
+                {% endif %}
+                <hr/>
+                <p>{{ event.description|raw|markdown }}</p>
+            </div>
+        </aside>
+     {% endfor %}
+    <div id="bigSvg" class="map bigSvg" style="position: absolute"></div>
+
+    <div id="caption" style="display: none;position: absolute;pointer-events: none;top: 50%;left: 0;margin-top: -80px;text-align: center;width: 100%;">
+        <h6>PROJECT</h6>
+        <h1></h1>
+        <h5 class="by"></h5>
+        <h5 class="at"></h5>
+    </div>
+{% endblock %}
+
+{% block script %}
+    <script>
+        points = $.parseJSON('{{ points|json_encode|raw|e('js') }}');
+        white = "#FAFAFA";
+        black = "#0F0F0F";
+        gray = "Gray";
+
+
+        (function() {
+            //if($.cookie('presence') == 'true'){
+                $('.center > header').css('height','37px');
+                $("#bigSvg").toggleClass("unblur");
+                $("#layer").hide();
+            //}
+            //$.cookie('presence', 'true', { expires: 7 });
+          /**  $('#layer').click(function () {
+                var left = "-101%";
+                $('#wesh').animate({left : left},300,
+                        function () {
+                    $('.center > header').animate({
+                        height : '37px'
+                    },200)
+                  })
+                $("#bigSvg").toggleClass("unblur");
+                $("#layer").hide();
+                });
+            $('#abouter').click(function () {
+                var left = "0%";
+                var text  = "╳";
+                if($("#wesh").css('left') == '0px' ) {
+                    left = '-101%';
+                    text = "ABOUT"
+                }
+                $('#wesh').animate({left : left},300);
+                $(this).html(text);
+            });**/
+            $('#langSelect b:first-child').click(function(){
+                if(!$(this).hasClass('selectActive')){
+                    $(this).toggleClass('selectActive');
+                    $('#langSelect b:last-child').removeClass('selectActive');
+                }
+                $('#wesh p:first-child').animate({marginLeft: '-50%'},300);
+            })
+            $('#langSelect b:last-child').click(function(){
+                if(!$(this).hasClass('selectActive')){
+                    $(this).toggleClass('selectActive');
+                    $('#langSelect b:first-child').removeClass('selectActive');
+                }
+                $('#wesh p:first-child').animate({marginLeft: '0%'},300);
+                console.log("tqt");
+            })
+
+            $('#buttonFlux').click(function (){
+                var left = "-101%";
+                var color = gray;
+                if(parseInt($("#fluxList").css("left"),10) < 0){
+                    left = 0;
+                    color = white;
+                }
+                $("#fluxList, .event-what-left, .side-left").animate({left : "-101%"},100);
+                $("#eventList,.event-what-right, .side-right").animate({right : "-101%"},100);
+
+                $("#fluxList, .event-what-left").delay(150).animate({left : left},300,function (){
+                    $('.topButton').css("borderBottom","1px Solid gray");
+                    $('.bottomButton').css("borderTop","1px Solid gray");
+                    $('#buttonFlux').css("borderTop","1px Solid "+color);
+                });
+            });
+            $('#buttonEvent').click(function (){
+                var right = "-101%";
+                var color = gray;
+                if(parseInt($("#eventList").css("right"),10) < 0){
+                    right = 0;
+                    color = white;
+                }
+                $("#fluxList, .event-what-left, .side-left").animate({left : "-101%"},100);
+                $("#eventList,.event-what-right, .side-right").animate({right : "-101%"},100);
+
+                $("#eventList,.event-what-right").delay(150).animate({right : right},300,function () {
+                    $('.topButton').css("borderBottom","1px Solid gray");
+                    $('.bottomButton').css("borderTop","1px Solid gray");
+                    $('#buttonEvent').css("borderBottom","1px Solid "+color);
+                });
+            });
+
+            $('#buttonAbout').click(function (){
+                var right = "-101%";
+                var color = gray;
+                if(parseInt($("#wesh").css("right"),10) < 0){
+                    right = 0;
+                    color = white;
+                }
+                $("#fluxList, .event-what-left, .side-left").animate({left : "-101%"},100);
+                $("#eventList,.event-what-right, .side-right").animate({right : "-101%"},100);
+
+                $("#wesh").delay(150).css("left","auto").animate({right : right},300,function(){
+                    $('.topButton').css("borderBottom","1px Solid gray");
+                    $('.bottomButton').css("borderTop","1px Solid gray");
+                    //$('#buttonAbout').css("borderTop","1px Solid "+color);
+                });
+            });
+
+            $('#buttonPartners').click(function (){
+                var right = "-101%";
+                var color = gray;
+                if(parseInt($("#partners").css("left"),10) < 0){
+                    right = 0;
+                    color = white;
+                }
+                $("#fluxList, .event-what-left, .side-left").animate({left : "-101%"},100);
+                $("#eventList,.event-what-right, .side-right").animate({right : "-101%"},100);
+
+                $("#partners").delay(150).css("right","auto").animate({left : right},300,function(){
+                    $('.topButton').css("borderBottom","1px Solid gray");
+                    $('.bottomButton').css("borderTop","1px Solid gray");
+                    $('#buttonPartners').css("borderBottom","1px Solid "+color);
+                });
+            });
+
+
+            $('.event-link-left').click(function () {
+                var right = "-50%";
+                var ref = $(this).attr("href");
+                if(parseInt($(ref).css("left"),10) < 0){
+                    right = '50%';
+                }
+                $(".event-what-left").animate({left : "-51%"},300,function(){
+                    $(ref).animate({left : right},300,function (){
+                        //$('#buttonEvent').css("borderBottom","1px Solid "+color);
+                    });
+                });
+            })
+
+            $('.event-link-right').click(function () {
+                var left = "-51%";
+                var ref = $(this).attr("href");
+                if(parseInt($(ref).css("left"),10) < 0){
+                    left = '50%';
+                }
+                $(ref).animate({right : left},300,function () {
+                    //$('#buttonEvent').css("borderBottom","1px Solid "+color);
+                });
+            })
+            $("#zoomin,#zoomout").click(function () {
+                $("#fluxList, .event-what-left").animate({left : "-101%"},300);
+                $("#eventList,.event-what-right").animate({right : "-101%"},300);
+            })
+
+
+            $("#contacter").click( function(){
+                console.log( $(".contactSection")) ;
+                $(".contactSection").fadeIn();
+            });
+            $(".contactSection .ol").click(function () {
+                console.log( $(".contactSection")) ;
+                $(".contactSection").fadeOut();
+            });
+        })();
+    </script>
+    <script>
+
+      function initMap() {
+          var sky = document.getElementById('zoomin');
+          var earth = document.getElementById('zoomout');
+
+          var styleArray = [
+              {
+                  "featureType": "all",
+                  "elementType": "all",
+                  "stylers": [
+                      {
+                          "visibility": "off"
+                      }
+                  ]
+              },
+              {
+                  "featureType": "landscape",
+                  "elementType": "all",
+                  "stylers": [
+                      {
+                          "visibility": "on"
+                      },
+                      { "color": "#fafafa" },
+                      { "lightness": "10%"},
+                      {"saturation": "0%"}
+                  ]
+              },
+              {
+                  "featureType": "water",
+                  "stylers": [
+                      {
+                          "visibility": "on"
+                      },
+                      {
+                          "color" : "#f3f3f3"
+                      }
+                  ]
+              }
+          ];
+
+          var zoom = 12;
+
+          // Create a map object and specify the DOM element for display.
+          var map = new google.maps.Map(document.getElementById('bigSvg'), {
+          center: {lat: 45.444847, lng: 12.318515},
+          scrollwheel: true,
+            styles: styleArray,
+            zoom: zoom,
+            mapTypeId: google.maps.MapTypeId.ROADMAP, //.ROADMAP,
+            disableDoubleClickZoom: false,
+            disableDefaultUI: true
+        });
+
+          map.addListener('zoom_changed', function() {
+              if(map.getZoom() > zoom){
+                  $(".zoomout").css("fontWeight","500");
+                  window.setTimeout(function() {
+                      $(".zoomout").css("fontWeight","300");
+                  }, 300);
+              }
+              else{
+                  $(".zoomin").css("fontWeight","500");
+                  window.setTimeout(function() {
+                      $(".zoomin").css("fontWeight","300");
+                  }, 300);
+              }
+              zoom = map.getZoom();
+          });
+
+          var circlesEvent = [];
+          var circles = [];
+          var polyBefores = [];
+          var polyAfters = [];
+          var dottedPolyAfters = [];
+          var timeOut = null;
+          var circleSmallerTimeOut = null;
+          var circleBiggerTimeOut = null;
+
+          points.forEach(function (flux) {
+
+              link = document.getElementById("link"+flux.flux.tid);
+              console.log("WSH FRERE");
+              link.addEventListener('mouseover',function () {
+                  console.log("COOL");
+                  circles.forEach(function (c) {
+                      if(c.icons[0].icon.fillColor != flux.flux.color) {
+                          c.setOptions({visible: false});
+                      }
+                  })
+              });
+              link.addEventListener('mouseout',function () {
+                  circles.forEach(function (c) {
+                      if(c.icons[0].icon.fillColor != flux.flux.color) {
+                          c.setOptions({visible: true});
+                      }
+                  })
+              });
+
+              var circle = {
+                  path: google.maps.SymbolPath.CIRCLE,
+                  scale: 4,
+                  strokeColor: flux.flux.color,
+                  strokeOpacity: 0.95,
+                  strokeWeight: 2,
+                  fillColor: flux.flux.color,
+                  fillOpacity: 0.90
+              };
+              var circleBigger = {
+                  path: google.maps.SymbolPath.CIRCLE,
+                  scale: 6,
+                  strokeColor: flux.flux.color,
+                  strokeOpacity: 0.95,
+                  strokeWeight: 2,
+                  fillColor: flux.flux.color,
+                  fillOpacity: 0.90
+              };
+              var linePattern = {
+                  path: google.maps.SymbolPath.CIRCLE,
+                  scale: 1,
+                  strokeColor: flux.flux.color,
+                  strokeOpacity: 0,
+                  strokeWeight: 1,
+                  fillColor: flux.flux.color,
+                  fillOpacity: 0.90
+              };
+
+              var fluxLatLon = [];
+              flux.points.forEach(function (point) {
+                  fluxLatLon.push({lat: parseFloat(point.lat), lng: parseFloat(point.lon)});
+              });
+
+              flux.points.forEach(function (point, i) {
+                  var latlng = new google.maps.LatLng(point.lat,point.lon);
+
+                  var p = Math.pow(2, (21 - map.getZoom())) * 0.4;
+                  var circleEvent = new google.maps.Circle({
+                      strokeColor: flux.flux.color,
+                      strokeOpacity: 0,
+                      strokeWeight: 2,
+                      fillColor: flux.flux.color,
+                      fillOpacity: 0,
+                      map: map,
+                      center: {lat: parseFloat(point.lat), lng: parseFloat(point.lon)},
+                      radius: p
+                  });
+
+                  var line = new google.maps.Polyline({
+                      path: [{lat: parseFloat(point.lat), lng: parseFloat(point.lon)}, {lat: parseFloat(point.lat), lng: parseFloat(point.lon)}],
+                      icons: [{
+                          icon: circle,
+                          offset: '100%'
+                      }],
+                      map: map
+
+                  });
+                  var circleId = circles.push(line);
+
+                  var n = polyBefores.push(new google.maps.Polyline({
+                      path: fluxLatLon.slice(0, i+1),
+                      map: map,
+                      strokeColor: flux.flux.color,
+                      strokeWeight: 1,
+                      visible: false
+                  })) - 1;
+
+                  var m = polyAfters.push(new google.maps.Polyline({
+                      path: fluxLatLon.slice(i , flux.points.length ),
+                      map: map,
+                      strokeColor: flux.flux.color,
+                      strokeWeight: 1,
+                      visible: false
+                  })) - 1;
+
+                  var o = dottedPolyAfters.push(new google.maps.Polyline({
+                      path: fluxLatLon.slice(i , flux.points.length ),
+                      map: map,
+                      visible: false,
+                      strokeOpacity: 0,
+                      strokeWeight: 2,
+                      strokeColor: flux.flux.color,
+                      icons: [{
+                          icon: linePattern,
+                          offset: '0',
+                          repeat: '10px'
+                      }]
+                  })) - 1;
+
+
+
+                  circleEvent.addListener('mouseover', function(){
+                      $("#caption h1").html(flux.flux.name);
+                      $("#caption .by").html("Position by " + point.username + ", " + point.date);
+                      $("#caption .at").html(point.loc);
+                      $("#caption").show();
+                      polyBefores[n].setOptions({visible: true});
+
+                      circles[circleId - 1].setOptions({icons : [{
+                          icon: circleBigger,
+                          offset: '100%'
+                      }]});
+
+                      clearTimeout(circleBiggerTimeOut);
+
+                      count = 0;
+                      interval = 40; //150000 / polyAfters[m].Distance();
+                      timeOut = window.setInterval(function () {
+                          delayBef = (count == 0)? 100: 0;
+                          window.setTimeout(function () {
+                              if (count < 200) {
+
+                                  if (count > 1) {
+                                      dottedPolyAfters[m].setOptions({visible: true});
+                                  }
+                                  count++;
+                                  tempLatLon = polyAfters[m].GetPointAtDistance(polyAfters[m].Distance() * (count / 2) / 100);
+                                  tempPos = polyAfters[m].GetIndexAtDistance(polyAfters[m].Distance() * (count / 2) / 100) - 1;
+
+                                  newPath = polyAfters[m].getPath().b.slice(0, tempPos);
+                                  newPath.push(tempLatLon);
+                                  dottedPolyAfters[m].setPath(newPath);
+                              }
+                          },delayBef);
+                      }, interval);
+
+                      circlesEvent.forEach(function (circleP) {
+                          if(circleP.fillColor != flux.flux.color) {
+                              circleP.setOptions({visible: false});
+                          }
+                      });
+
+                      var scale = 4;
+                      circleSmallerTimeOut = window.setInterval(function () {
+                          scale = scale - 0.5;
+                          if(scale <= 0){
+                              clearInterval(circleSmallerTimeOut);
+                          }
+                          circles.forEach(function (c) {
+                              if (c.icons[0].icon.fillColor != flux.flux.color) {
+                                  var icons = c.get('icons');
+                                  icons[0].icon.scale = scale;
+                                  c.set('icons', icons);
+                                  if(scale <= 0){
+                                      c.setOptions({visible: false});
+                                  }
+                              }
+                          })
+                      },10)
+                  });
+
+                  circleEvent.addListener('mouseout', function () {
+                      $("#caption").hide();
+                      dottedPolyAfters[m].setOptions({visible: false});
+                      polyBefores[n].setOptions({visible: false});
+                      clearTimeout(timeOut);
+                      clearTimeout(circleSmallerTimeOut);
+                      circles[circleId - 1].setOptions({icons : [{
+                          icon: circle,
+                          offset: '100%'
+                      }]});
+
+                      circlesEvent.forEach(function (circleP) {
+                          circleP.setOptions({visible: true});
+                      });
+
+                      var scaleBig = 0;
+                      circleBiggerTimeOut = window.setInterval(function () {
+                          scaleBig = scaleBig + 0.5;
+                          if(scaleBig >= 4){
+                              clearInterval(circleBiggerTimeOut);
+                          }
+
+                          circles.forEach(function (c) {
+                              if (c.icons[0].icon.fillColor != flux.flux.color) {
+                                  var icons = c.get('icons');
+                                  icons[0].icon.scale = scaleBig;
+                                  c.set('icons', icons);
+                                  if(scaleBig == 0.5){
+                                      c.setOptions({visible: true });
+                                  }
+                              }
+                          })
+                      },10);
+
+                  });
+
+                  circleEvent.addListener("click", function () {
+                      window.location.href = "http://www.biennaleurbana.com/flux/"+flux.flux.tid + "/" + point.key ;
+                  });
+
+                  circlesEvent.push(circleEvent);
+
+              });
+          });
+
+          map.addListener('zoom_changed', function() {
+              for (var i = 0; i < circlesEvent.length; i++) {
+                  var p = Math.pow(2, (21 - map.getZoom()));
+                  circlesEvent[i].setRadius(p * 0.4);
+              }
+          });
+
+          google.maps.event.addDomListener(sky, 'click', function() {
+              map.setZoom( map.getZoom() - 1);
+          });
+          google.maps.event.addDomListener(earth, 'click', function() {
+              map.setZoom( map.getZoom() + 1);
+          });
+
+      }
+
+    </script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCQzeR2krfTF39Pspcr_Bn-kmNtETN9vsY&callback=initMap"></script>
+    <script src="http://www.geocodezip.com/scripts/v3_epoly.js"></script>
+
+{% endblock %}
+
+{% block footerMap %}
+<footer style="height: 37px">
+    <section>
+
+        <hr/>
+        <h1 style="border-bottom-color: Gray" id="buttonFlux" class="bottomButton">
+            ARCHIVE
+        </h1>
+
+    </section>
+
+    <section>
+        <hr/>
+
+        <h1 style="border-bottom-color: Gray" id="buttonAbout" class="bottomButton">
+            ABOUT US
+        </h1>
+
+    </section>
+</footer>
+{% endblock %}
+
+
+{% block navStyle %}
+    style="border-bottom-color: Gray"
+{% endblock %}
+
+{% block footerStyle %}
+    style="border-top-color: Gray"
+{% endblock %}

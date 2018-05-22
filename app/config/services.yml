@@ -1,0 +1,44 @@
+# Learn more about services, parameters and containers at
+# http://symfony.com/doc/current/book/service_container.html
+parameters:
+#    parameter_name: value
+    app.file.twig.extension.class: TelegramBundle\Twig\FileExtension
+
+services:
+    app.exception_listener:
+        class: TelegramBundle\EventListener\ExceptionListener
+        arguments:
+            router: "@router"
+        tags:
+            - { name: kernel.event_listener, event: kernel.exception }
+    app.terminate_listener:
+        class: TelegramBundle\EventListener\TerminateListener
+        tags:
+            - { name: kernel.event_listener, event: kernel.terminate }
+    admin.category:
+        class: TelegramBundle\Admin\FluxAdmin
+        arguments: [~, TelegramBundle\Entity\Flux, ~]
+        tags:
+            - { name: sonata.admin, manager_type: orm, label: Flux }
+    admin.message:
+        class: TelegramBundle\Admin\MessageAdmin
+        arguments: [~, TelegramBundle\Entity\Message, ~]
+        tags:
+            - { name: sonata.admin, manager_type: orm, label: Message}
+    admin.event:
+        class: TelegramBundle\Admin\EventAdmin
+        arguments: [~, TelegramBundle\Entity\Event, ~]
+        tags:
+            - { name: sonata.admin, manager_type: orm, label: Event}
+    app.twig_extension:
+        class: TelegramBundle\Twig\AutoLinkTwigExtension
+        public: false
+        tags:
+            - { name: twig.extension }
+    app.file.twig.extension:
+        class: TelegramBundle\Twig\FileExtension
+        tags:
+            - { name: twig.extension }
+#    service_name:
+#        class: AppBundle\Directory\ClassName
+#        arguments: ["@another_service_name", "plain_value", "%parameter_name%"]

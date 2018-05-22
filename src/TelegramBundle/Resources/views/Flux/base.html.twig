@@ -1,0 +1,157 @@
+<!doctype html>
+<html class="no-js" lang="">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title>{% block title %}BURB{% endblock %}</title>
+        <meta name="description" content="{% block description %}
+            Biennale Urbana is an emerging trans-local agency that explores the limits and inhabits the existing distances in-between Biennale (Arts), Venice (City) and the Lagoon (Territory). Biennale Urbana serves as common ground between artistic action, transdisciplinary education and urban transformation.
+        {% endblock %}">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link rel="apple-touch-icon" href="{{ asset("apple-touch-icon.png") }}">
+        <link rel="icon" href="{{ asset("favicon.ico") }}">
+
+        <!--link rel="stylesheet" href="{{ asset("assets/vendor/outdated-browser/outdatedbrowser/outdatedbrowser.css") }}"-->
+        <link rel="stylesheet" href="{{ asset("bundles/burb/css/main.css") }}">
+        <script src="{{ asset("bundles/burb/js/vendor/modernizr-2.8.3.min.js") }}"></script>
+        <!-- Piwik -->
+        <script type="text/javascript">
+            var _paq = _paq || [];
+            _paq.push(['trackPageView']);
+            _paq.push(['enableLinkTracking']);
+            (function() {
+                var u="//piwik.zerozoro.com/";
+                _paq.push(['setTrackerUrl', u+'piwik.php']);
+                _paq.push(['setSiteId', 1]);
+                var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+                g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+            })();
+        </script>
+        <noscript><p><img src="//piwik.zerozoro.com/piwik.php?idsite=1" style="border:0;" alt="" /></p></noscript>
+        <!-- End Piwik Code -->
+    </head>
+    <body>
+        <!-- OUTDATED BROWSER -->
+        <div id="outdated"></div>
+
+        <main>
+            <section style="float">
+                <nav>
+                    <a href="/"><img id="logo" src="{{ asset('files/img/burb.png') }}"/></a>
+                    <h1 class="menuButton" {% block navStyle %}{% endblock %}>
+                        <a {% if app.request.attributes.get('_route') != "index" and app.request.attributes.get('_route') != "map" %}
+                                href="{{ path('index') }}"
+                            {% endif %} class="zoomin full" id="zoomin">SKY</a>
+                    </h1>
+                    <h1 class="menuButton" style="border:0;right:15px;float:right;position:absolute">
+                        <a class="full" id="contacter">CONTACT</a>
+                    </h1>
+                    <hr />
+                </nav>
+                <section class="center">
+                    <header {% block buttonHidder %}{% endblock %} >
+                        <section>
+                            {% block title1 %}{% endblock %}
+                            <hr/>
+                        </section>
+
+                        <section>
+                            {% block title2 %}{% endblock %}
+                            <hr/>
+                        </section>
+                    </header>
+                    <section>
+                        <div id="bodyCtn">
+                            {% block body %}
+
+                            {% endblock %}
+                            <div class="contactSection">
+                                <div class="ol"></div>
+                                <div class="ctn">
+                                    <a href="https://www.facebook.com/BiennaleUrbana/" target="_blank">Facebook</a><br><br>
+                                    <a href="https://twitter.com/biennaleurbana" target="_blank">Twitter</a><br><br>
+                                    <a href="mailto:info@biennaleurbana.com" target="_blank">info@biennaleurbana.com</a><br><br>
+                                    download <a href="https://telegram.org/" target="_blank">Telegram</a><br> to Join our Fluxes
+                                </div>
+                            </div>
+                            <div id="layer"></div>
+                        </div>
+                    </section>
+                    {% block footerMap %}{% endblock %}
+                </section>
+
+                <footer>
+                    <hr/>
+                    <h1 class="menuButton" {% block footerStyle %}{% endblock %}>
+                        <a {% if app.request.attributes.get('_route') != "index" and app.request.attributes.get('_route') != "map" %}
+                                href="{{ path('index') }}"
+                                {% endif %}
+                                class="full zoomout" id="zoomout">EARTH</a>
+                    </h1>
+                </footer>
+            </section>
+        </main>
+
+        <script>
+
+            flux =
+                    {% if app.request.get('tid') is not null %}
+                       " {{ app.request.get('tid') }} "
+                    {% else %} null {% endif %} ;
+
+            offset =
+            {% if app.request.get('offset') is not null %}
+                {{ app.request.get('offset') }} + 0
+            {% else %}
+                0
+            {% endif %};
+
+            offsetFutur =
+                    {% if app.request.get('offset') is not null %}
+                    {{ app.request.get('offset') }} + 0
+            {% else %}
+                2
+            {% endif %};
+
+        </script>
+        <script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
+        <script src="{{ asset("bundles/burb/js/vendor/jcanvas.min.js") }}"></script>
+        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.12.0.min.js"><\/script>')</script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
+        <script src="{{ asset("bundles/burb/js/vendor/snap.svg-min.js") }}"></script>
+        <script src="{{ asset("bundles/burb/js/plugins.js") }}"></script>
+        <script src="{{ asset("bundles/burb/js/jquery.cookie.js") }}"></script>
+        <script src="{{ asset("bundles/burb/js/main.js") }}"></script>
+
+        {% block script %}
+
+        {% endblock %}
+
+        <script src="{{ asset('assets/vendor/outdated-browser/outdatedbrowser/outdatedbrowser.min.js') }}"></script>
+        <script>
+            function addLoadEvent(func) {
+                var oldonload = window.onload;
+                if (typeof window.onload != 'function') {
+                    window.onload = func;
+                } else {
+                    window.onload = function(){
+                        if (oldonload) {
+                            oldonload();
+                        }
+                        func();
+                    }
+                }
+            }
+            //call plugin function after DOM ready
+            addLoadEvent(function(){
+                outdatedBrowser({
+                    bgColor: '#f25648',
+                    color: '#ffffff',
+                    lowerThan: 'transform',
+                    languagePath: '{{ asset('assets/vendor/outdated-browser/outdatedbrowser/lang/en.html') }}'
+                })
+            });
+        </script>
+    </body>
+</html>

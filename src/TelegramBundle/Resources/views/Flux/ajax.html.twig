@@ -1,0 +1,63 @@
+<div class="futurer" onclick="offsetFutur -= 10;
+    loadFluxSection('https://www.biennaleurbana.com/'+ devUrl +'ajax/flux/' + flux + '/' + offsetFutur,false);" style="position: relative;padding: 10px 0;overflow: hidden;opacity: 1">
+    <h5 style="margin: 0; cursor: pointer">FUTUR</h5>
+</div>
+{%  for m in messages %}
+    <article class="art-{{ offset }}" {% if m.type != "location" %} onclick="closeMap()" {%  endif %}>
+    <div>
+        {% if m.type == "text" %}
+            <h1 style="padding: 0 40px;">{{ m.text|convert_encoding('ISO-8859-1', 'UTF-8') }}</h1>
+        {% endif %}
+        {% if m.type == "location" %}
+            <h1  style="cursor: pointer" class="locationArticle" onclick="pointTo({{ m.lat }},{{ m.lon }})">{{ m.lat }} — {{ m.lon }}</h1>
+        {% endif %}
+        {% if m.type== "photo" %}
+            <img src="{{ asset('files/photos/' ~ m.tid ~ '_2.jpg') }}"/>
+        {% endif %}
+
+        {% if m.type== "video" %}
+            {%  if m.text == "mp4" or m.text is null %}
+                <video controls>
+                    <source src="{{ asset('files/videos/'~ m.tid ~'.mp4') }}" type="video/mp4">
+                    <source src="{{ asset('files/videos/'~ m.tid ~'.ogg') }}" type="video/ogg">
+                    <source src="{{ asset('files/videos/'~ m.tid ~'.webm') }}" type="video/webm">
+                    Your browser does not support the video tag.
+                </video>
+            {% else %}
+                <iframe src="//player.vimeo.com/{{ m.text }}?title=0&color={{ flux.color | slice(1,6) }}"  width="350" height="146" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+            {% endif %}
+        {% endif %}
+        {% if m.type== "voice" %}
+            {%  if m.text is null %}
+                <audio controls>
+                    <source src="{{ asset('files/voices/'~ m.tid ~'.' ~ m.text) }}" type="audio/ogg">
+                </audio>
+            {%  else %}
+                <iframe width="350" height="146" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/{{ m.text }}&amp;color={{ flux.color | slice(1,6) }}&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+            {% endif %}
+        {% endif %}
+        {% if m.type == "document" %}
+            {% set docExt = m.url|split('.')|last %}
+            {% set docUrl = asset('files/documents/'~ m.tid ~'.'~ docExt ) %}
+            {% set docName = m.url|split('/')|last %}
+            {% if docExt == "mp4" %}
+                <video controls loop autoplay muted >
+                    <source src="{{ docUrl }}" type="video/mp4">
+                </video>
+            {% elseif docExt == "gif" or docExt == "jpg" or docExt == "JPG" %}
+                <img src="{{ docUrl }}"/>
+            {% else %}
+                <h4><b>{{ docName }}</b></h4>
+                <a href="{{ docUrl }}" target="_blank">Download</a>
+            {% endif %}
+        {% endif %}
+    </div>
+    <h3>
+        {% if m.user.picUrl != -1 and m.user.picUrl  %}
+            <img src="{{ asset('files/pic/'~ m.user.tid ~'_0.jpg') }}"/>
+        {% endif %}
+        <b>{{ m.user.fname |upper }} {{ m.user.lname|upper }}</b>
+        {{ m.date|date("H:i, d M y") }}
+    </h3>
+    </article>
+{% endfor %}
